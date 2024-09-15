@@ -161,7 +161,7 @@ class Filter(object):
         with open(fileName, 'a') as f:
             f.write("!\n")
             f.write("! Title: AdBlock Filter\n")
-            f.write("! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD\n")
+            f.write("! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、anti-AD、TRLI Host、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD\n")
             f.write("! Homepage: https://github.com/Sanyue0v0/adblockfilters\n")
             f.write("! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockfilters.txt\n")
             f.write("! Version: %s\n"%(time.strftime("%Y%m%d%H%M%S", time.localtime())))
