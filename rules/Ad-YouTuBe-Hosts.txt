@@ -1,8 +1,8 @@
-! Checksum: MTcyNjY2Mjg1MQo=
+! Checksum: MTcyNjc0OTI3NAo=
 ! Title: trli's Ad Filter Youtube for adguardhome
 ! Description: HOSTS Project
-! Version: 20240918-6
-! TimeUpdated: 2024-09-18T20:34:11+08:00
+! Version: 20240919-6
+! TimeUpdated: 2024-09-19T20:34:34+08:00
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://file.trli.club:2083/ad-youtube-hosts/
 ! Total: 111235
