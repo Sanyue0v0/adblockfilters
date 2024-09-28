@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240928162206
-! Last modified: 2024/09/28 16:22:06
-! Blocked domains: 151974
+! Version: 20240929002117
+! Last modified: 2024/09/29 00:21:17
+! Blocked domains: 152004
 ! unBlocked domains: 149
 !
 ||0000y.net^
@@ -559,6 +559,7 @@
 ||ahm.135320.com^
 ||dhl.135320.com^
 ||1360.cn^
+||1370065b3a.com^
 ||137kfj65k.de^
 ||138lm.com^
 ||138xt.com^
@@ -6634,6 +6635,7 @@
 ||admulti.com^
 ||admulti.ru^
 ||admvetro-it.top^
+||admvpmpllikt.com^
 ||admysports.com^
 ||admyteam.com^
 ||adn-performance.com^
@@ -7084,6 +7086,7 @@
 ||adserverhd.com^
 ||adserverus.info^
 ||adserverxxl.de^
+||adservg.com^
 ||adservice.com^
 ||adservice.dk^
 ||adservicemedia.dk^
@@ -14335,6 +14338,7 @@
 ||geoip.ativo.com^
 ||etc.atja.jp^
 ||atjigglypuffor.com^
+||atjogdfzivre.com^
 ||atl-6-ga.com^
 ||cc-analytics--cdn.us-east-1.prod.public.atl-paas.net^
 ||metric.atlanta.net^
@@ -28927,6 +28931,7 @@
 ||cfcloudcdn.com^
 ||cfd-trader.io^
 ||cfds-trader.com^
+||cfdvd779.fun^
 ||cfebliqui.com^
 ||info.cfevr.org^
 ||cfgr2.com^
@@ -29212,6 +29217,7 @@
 ||pduwvp.chanti.dk^
 ||umewjp.chanti.no^
 ||wmokhr.chanti.se^
+||chantypitmen.click^
 ||chanz.com^
 ||chaojilamei.cn^
 ||n.chaoliangyun.cn^
@@ -37136,6 +37142,7 @@
 ||daizoode.com^
 ||dajean.com^
 ||dajomikitl.xyz^
+||dajs001.shop^
 ||dajswiacllfy.com^
 ||gyydua.dakine.com^
 ||dakjddjerdrct.online^
@@ -37214,6 +37221,7 @@
 ||dandelionnoddingoffended.com^
 ||smetrics.dandh.ca^
 ||tracking.dandingo.com^
+||dandinterpersona.com^
 ||go.dandori-work.co.jp^
 ||dandrosoft.com^
 ||dandyblondewinding.com^
@@ -38017,6 +38025,7 @@
 ||my.trk.debtgenie.org^
 ||debtsevolve.com^
 ||www.debtwire.com^
+||a.debub.site^
 ||www.debunkingskeptics.com^
 ||debusinessdaily.com^
 ||debutdirect.info^
@@ -43682,6 +43691,7 @@
 ||test.efaging.com^
 ||efanyorgagetni.info^
 ||feas.efarma.com^
+||efawhwawapkrbu.com^
 ||os.efax.es^
 ||os.efax.nl^
 ||os.efaxcorporate.com^
@@ -50022,6 +50032,7 @@
 ||858006.fjao.pl^
 ||914231.fjao.pl^
 ||f206b417e95ecbe5ef7cc47314c819fb.fjao.pl^
+||fjaqxtszakk.com^
 ||axi.fjcruiserdocs.co.za^
 ||fjgw.net^
 ||fjmailia.com^
@@ -51532,6 +51543,7 @@
 ||fpukxcinlf.com^
 ||fpvdrzx.xyz^
 ||fpwallet.com^
+||fpxhvdjbivzt.com^
 ||fpxvg5.xyz^
 ||fpyhuktuwatn.com^
 ||fpzpmx.com^
@@ -53203,6 +53215,7 @@
 ||50hardcore.galleryprogram.com^
 ||gallicize25.fun^
 ||galllcciiaaroffllceees.com^
+||gallonjav128.fun^
 ||gallopextensive.com^
 ||advise.gallup.com^
 ||gallupcommend.com^
@@ -60356,6 +60369,7 @@
 ||data-908fd409d9.hoerzu.de^
 ||data-c0c484e9be.hoerzu.de^
 ||dl.hoes.tube^
+||ww.hoes.tube^
 ||waaf1.hoferfotos.at^
 ||trk.hoffmanandlamson.com^
 ||ea.hofmann.es^
@@ -63211,6 +63225,7 @@
 ||ukzjce.idus.com^
 ||idvd.su^
 ||idvideo678.blogspot.com^
+||idvumepebhj.com^
 ||tracking.idwholesaler.com^
 ||idwrx.com^
 ||idyllteapots.com^
@@ -67968,10 +67983,13 @@
 ||ixiaceaes.com^
 ||api5-normal-quic-lf.ixigua.com^
 ||search5-search.ixigua.com^
+||v1-ad.ixigua.com^
 ||v1-dc-ad.ixigua.com^
 ||v3-ad.ixigua.com^
 ||v3-dc-ad.ixigua.com^
+||v6-ad.ixigua.com^
 ||v6-dc-ad.ixigua.com^
+||v9-ad.ixigua.com^
 ||v9-dc-ad.ixigua.com^
 ||zjliloveyou.ixiunv.com^
 ||ixjtpbj.cn^
@@ -75294,6 +75312,7 @@
 ||data-a01a8a1ba4.lauterbacher-anzeiger.de^
 ||data-f59db3288b.lauterbacher-anzeiger.de^
 ||images.lauthorities.com^
+||lauwofigleegry.net^
 ||www.lauz.cn^
 ||lauzaloistl.com^
 ||lavamedia.vn^
@@ -77824,6 +77843,7 @@
 ||looksblazeconfidentiality.com^
 ||looksdashboardcome.com^
 ||stbg.looksee.co.za^
+||lookshouldthin.com^
 ||looksmart.com^
 ||looksmartppc.com^
 ||lookszone.ru^
@@ -89968,6 +89988,7 @@
 ||nxtpsh.top^
 ||sales.nxtwall.com^
 ||nxtxxcm.xyz^
+||nxtytjeakstivh.com^
 ||nxwrgrymkfp.com^
 ||nxxkxr.xyz^
 ||nxxyjn.com^
@@ -93898,6 +93919,7 @@
 ||mfe.paqpq.com^
 ||parabit.ru^
 ||parachuteclub.live^
+||parachutecourtyardgrid.com^
 ||parachuteeffectedotter.com^
 ||parademuscleseurope.com^
 ||events-c.mb.paradigmpressgroup.com^
@@ -100462,6 +100484,7 @@
 ||psoacickoots.net^
 ||psoackaw.net^
 ||psoaftob.xyz^
+||psoakichoax.xyz^
 ||psoansumt.net^
 ||psoanufi.com^
 ||psoasusteech.net^
@@ -126109,6 +126132,7 @@
 ||tfsqxdc.com^
 ||tfsxszw.com^
 ||tft-test.ru^
+||tftnbbok.xyz^
 ||tftpd.net^
 ||tg-safety.com^
 ||tg.sv^
@@ -138201,6 +138225,7 @@
 ||ads.vgd.no^
 ||advert.vgd.no^
 ||vgdny.com^
+||vgfhycwkvh.com^
 ||vgfree.com^
 ||vgfrrtc.click^
 ||vghd.com^
@@ -141078,6 +141103,7 @@
 ||vupoupay.com^
 ||vupsnx.xyz^
 ||vupulse.com^
+||vuqcteyi.com^
 ||vurbont.xyz^
 ||app.vurse.com^
 ||vursoofte.net^
@@ -146377,6 +146403,7 @@
 ||seguritypriva.wuaze.com^
 ||vldcnotlook03.wuaze.com^
 ||wubbaboost.blogspot.com^
+||wubeghasp.com^
 ||wubrvwoirvwpiuroiue.site^
 ||aeoncardservice.wuc9c6ycmwb9w6.top^
 ||wuchaurteed.com^
@@ -147574,6 +147601,7 @@
 ||xliffnsc.xyz^
 ||b.xlineker.com^
 ||xlivesex.com^
+||xljlzylffe.com^
 ||xlkdbbvy.xyz^
 ||xlmdtiyqbkygtfkh.com^
 ||qlspmy.xlmoto.be^
@@ -148686,6 +148714,7 @@
 ||track.yetric.app^
 ||yetshape.com^
 ||yetterslave.com^
+||yetuzfqjb.com^
 ||yext-pixel.com^
 ||analytics.yext-static.com^
 ||realtimeanalytics.yext.com^
@@ -151757,6 +151786,7 @@
 ||zvhlzb.xyz^
 ||zvhprab.com^
 ||track.msadcenter.zvjw.com^
+||zvjzyupjaq.com^
 ||zvkytbjimbhk.com^
 ||zvooq.eu^
 ||zvpr.cfd^
