@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240929162211
-! Last modified: 2024/09/29 16:22:11
-! Blocked domains: 173890
+! Version: 20240930002204
+! Last modified: 2024/09/30 00:22:04
+! Blocked domains: 173882
 ! unBlocked domains: 151
 !
 ||alebilet.0437246.cfd^
@@ -89,6 +89,7 @@
 ||56c30cd3c4.0d0e65883b.com^
 ||01399322b4.0d4f63422a.com^
 ||0dax.com^
+||a.0day.kiev.ua^
 ||0didjsgheje.club^
 ||6fb345e22a.0f3f317f1d.com^
 ||0f461325bf56c3e1b9.com^
@@ -44907,6 +44908,7 @@
 ||devopsinterviews.com^
 ||grouse.devopsnewsletters.com^
 ||devopsteams.com^
+||stat.devote.se^
 ||devotionhundredth.com^
 ||devoutdoubtfulsample.com^
 ||devoutgrantedserenity.com^
@@ -82926,6 +82928,7 @@
 ||jerseys-shopping.com^
 ||jerusalemcurve.com^
 ||jerusalemstatedstill.com^
+||jeryt111.fun^
 ||jesamcorp.com^
 ||jesgoo.com^
 ||jesocaukoa.com^
@@ -95387,6 +95390,7 @@
 ||mediafiire.com^
 ||mediafile.pl^
 ||tr.mediafin.be^
+||trjs2.mediafin.be^
 ||download207.mediafire.com^
 ||mediafiregames.net^
 ||mediaforce.com^
@@ -106363,20 +106367,7 @@
 ||smetrics.njoy.com^
 ||target.njoy.com^
 ||www.njpj.com^
-||as.njrrs.com^
-||capitalgain.njrrs.com^
-||ds.njrrs.com^
-||eu-times.njrrs.com^
-||extra-news.njrrs.com^
-||gazeta-pl.njrrs.com^
-||green-energy.njrrs.com^
-||green-tauron.njrrs.com^
-||greenmedia.njrrs.com^
-||mediagazowa.njrrs.com^
-||news-markets.njrrs.com^
-||tauron-energy.njrrs.com^
-||ty.njrrs.com^
-||wealth-wave.njrrs.com^
+||njrrs.com^
 ||njtbiml.xyz^
 ||njupt-sacc.com^
 ||njwh.net^
@@ -156100,6 +156091,7 @@
 ||track.ultragaming.biz^
 ||metrics.ultraholistic.com^
 ||affiliates.ultrahosting.com^
+||ultraimpression.jp^
 ||ultraiso.net^
 ||smetrics.ultramarfleet.ca^
 ||target.ultramarfleet.ca^
