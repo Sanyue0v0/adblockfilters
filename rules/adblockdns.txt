@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241006162129
-! Last modified: 2024/10/06 16:21:29
-! Blocked domains: 160883
+! Version: 20241007002052
+! Last modified: 2024/10/07 00:20:52
+! Blocked domains: 160897
 ! unBlocked domains: 118
 !
 ||free-form.000.pe^
@@ -3123,6 +3123,7 @@
 ||54e4e31106.6e10268cd2.com^
 ||6e26fb1ae7.com^
 ||32dcfb89c9.6ee4d8e440.com^
+||6efgcdcjr000.fun^
 ||9e53d7ea46.6f0b6cb0fe.com^
 ||6f752f73ce.com^
 ||6ftlady.com^
@@ -9978,6 +9979,7 @@
 ||starget.aircanada.com^
 ||tk.aircaraibes.com^
 ||aa-metrics.aircard.jp^
+||aircgd.shop^
 ||trk.aircharterguide.com^
 ||trk.airchecklab.com^
 ||airconditionpianoembarrassment.com^
@@ -13337,7 +13339,6 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animeteatr.ru^
@@ -16553,6 +16554,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -23734,6 +23736,7 @@
 ||beta-n.ro^
 ||promotionmaterial.betacash.com^
 ||betack.com^
+||betadeadlock.com^
 ||betadria.com^
 ||betads.xyz^
 ||betahit.click^
@@ -30775,6 +30778,7 @@
 ||bwtcilgll.com^
 ||solutions.bwtek.com^
 ||ad.bwton.com^
+||bwurserv.top^
 ||bx-cloud.com^
 ||bx-qa.com^
 ||bxacmsvmxb.com^
@@ -44779,7 +44783,6 @@
 ||www2s.discountcatalyticconverters.com^
 ||discountclick.com^
 ||www2.discountfuelsystems.com^
-||discounthoneywell.com^
 ||dhkyrl.discountmags.com^
 ||gxsuum.discountmugs.com^
 ||discountsaredrastic.com^
@@ -53422,7 +53425,6 @@
 ||family-simulators.io^
 ||family1st.ca^
 ||familybakery.xyz^
-||familybestgifts.com^
 ||familyborn.com^
 ||familycheaters.net^
 ||familycomplexionardently.com^
@@ -53645,6 +53647,7 @@
 ||fashion-tube.be^
 ||adsrv.fashion.bg^
 ||fashionablegangsterexplosion.com^
+||fashionadid.com^
 ||wm8bcqvd3tgn9vhv23d2sa9u.fashionarid.com^
 ||nltihf.fashiondays.ro^
 ||dyghye.fashionesta.com^
@@ -69481,6 +69484,7 @@
 ||smetrics.immunooncology.be^
 ||immunoshield.ph^
 ||immutableinvestic.com^
+||imndl.icu^
 ||imnovalux.com^
 ||imnpost-pl.top^
 ||imo-cash.de^
@@ -77399,6 +77403,8 @@
 ||kemaz.xyz^
 ||www2.kemcosystems.com^
 ||kemhality.com^
+||link.kemkes.go.id^
+||parisiporlin-ktki.kemkes.go.id^
 ||analytics.kemlu.go.id^
 ||metrics.kempinski.com^
 ||kempkicker.net^
@@ -94029,6 +94035,7 @@
 ||navi59.ru^
 ||navi65.com^
 ||navi72.ru^
+||navi76.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -99260,6 +99267,7 @@
 ||online.sh.cn^
 ||online143.com^
 ||vlnted-gb.online6424.info^
+||onlineadid.com^
 ||dailydeals.onlineathens.com^
 ||onlinebalances.com^
 ||onlinecash.com^
@@ -103672,6 +103680,7 @@
 ||pictorialtraverse.com^
 ||picturecorrespond.com^
 ||go.picturemarketing.com^
+||pictureoutdoor.com^
 ||picturestash.mom^
 ||pictureturn.com^
 ||picupeebau.info^
@@ -103856,6 +103865,7 @@
 ||pinhuitech.asia^
 ||pinion.gg^
 ||pinjamanelit.top^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -127222,6 +127232,7 @@
 ||snowmentor.com^
 ||snowmiracles.com^
 ||snowqueenhydrangea.xyz^
+||snowroxy.com^
 ||snowsignal.com^
 ||snowyescape.live^
 ||xhnt.snqrk.cn^
@@ -128035,6 +128046,7 @@
 ||sordimtaulee.com^
 ||sore-candle-comic.glitch.me^
 ||sore-mature-bubble.glitch.me^
+||soreldiscount.com^
 ||soremetropolitan.com^
 ||sorethunder.com^
 ||smetrics.sorgenia.it^
@@ -130672,6 +130684,7 @@
 ||store-rx.com^
 ||store-swatch.com^
 ||store4porn.com^
+||storeadid.com^
 ||storeax.com^
 ||storebuildereurope.com^
 ||storecollegeonline.com^
@@ -146002,6 +146015,7 @@
 ||smetrics.catalog.usmint.gov^
 ||usn.cc^
 ||usnd.to^
+||usnewoutdoor.com^
 ||link.biz-messaging.usnews.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
