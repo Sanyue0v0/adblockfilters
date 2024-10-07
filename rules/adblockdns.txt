@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241007002052
-! Last modified: 2024/10/07 00:20:52
-! Blocked domains: 160897
+! Version: 20241007092344
+! Last modified: 2024/10/07 09:23:44
+! Blocked domains: 160904
 ! unBlocked domains: 118
 !
 ||free-form.000.pe^
@@ -1564,6 +1564,7 @@
 ||4f1fca8377.2ea4fb5aea.com^
 ||654b11e34e.2eb4977fca.com^
 ||2edef809.xyz^
+||2efgcdcjr000.fun^
 ||ngueja.2ememain.be^
 ||2explore.com^
 ||2f16d429ce.com^
@@ -28226,6 +28227,7 @@
 ||csvtr09.bmonesbittburns.com^
 ||bmorehacker.com^
 ||bmqtvmdg.xyz^
+||bmqulua.icu^
 ||smetrics.bms-io-academy.co.uk^
 ||smetrics.bms-onkologie.de^
 ||smetrics.bmscustomerconnect.com^
@@ -35716,6 +35718,7 @@
 ||clldirectasianew.club^
 ||clmbtech.com^
 ||clmbtrk.com^
+||clmcam.xyz^
 ||clme.net^
 ||clmkwi.xyz^
 ||clmm.me^
@@ -42554,6 +42557,7 @@
 ||ddlh1467paih3.cloudfront.net^
 ||a.ddli.jp^
 ||ddllhqj.xyz^
+||ddlmsoyo.icu^
 ||ddlvpmt.xyz^
 ||ddm.io^
 ||cdn.ddmanager.ru^
@@ -48548,6 +48552,7 @@
 ||edacityedacityhandicraft.com^
 ||edacityedacitystrawcrook.com^
 ||ads.edadeal.ru^
+||edadmy.xyz^
 ||edaightutaitlastwe.info^
 ||edalloverwiththinl.info^
 ||edallthroughthe.info^
@@ -77692,6 +77697,7 @@
 ||srepdata.kgw.com^
 ||ywrcqa.kgw.com^
 ||kgyhxdh.com^
+||kgymoc.xyz^
 ||kgyre.top^
 ||kh-vibquocte.com^
 ||links.kha.com^
@@ -156756,6 +156762,7 @@
 ||xlvqhx.xyz^
 ||xlwaluyw.com^
 ||xlwrdnrw.xyz^
+||xlxehr.xyz^
 ||ads.xlxtra.com^
 ||xlylqx.com^
 ||xlypzbzs.xyz^
