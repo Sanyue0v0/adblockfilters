@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241019162217
-! Last modified: 2024/10/19 16:22:17
-! Blocked domains: 169038
+! Version: 20241020002121
+! Last modified: 2024/10/20 00:21:21
+! Blocked domains: 169049
 ! unBlocked domains: 147
 !
 ||market-place-id-19420601926.000.pe^
@@ -17464,6 +17464,7 @@
 ||awwagqorqpty.com^
 ||astro.awwlrd.cn^
 ||cul.awwlrd.cn^
+||awwnaqax.com^
 ||awxgfiqifawg.com^
 ||awytythbxujkz.com^
 ||awyuge.xyz^
@@ -31879,6 +31880,7 @@
 ||cho7932105co3l2ate3covere53d.com^
 ||choachim.com^
 ||choacmax.xyz^
+||choafaidoonsoy.net^
 ||choagrie.com^
 ||choakalsimen.com^
 ||choakaucmomt.com^
@@ -46115,6 +46117,7 @@
 ||hbads.eboz.com^
 ||hbadz.eboz.com^
 ||go.ebq.com^
+||ebqptawxdxrrdsu.xyz^
 ||a0ib.ebs-geneve.com^
 ||csv4.ebs-paris.fr^
 ||ebtmarketing.com^
@@ -47416,6 +47419,7 @@
 ||metrics.elgiganten.dk^
 ||activate.elgincouriernews.com^
 ||elginshoppingmall.com^
+||elgnnpl-ukgs.global^
 ||elgonhoney.com^
 ||elgrande.pl^
 ||elho.online^
@@ -53641,6 +53645,7 @@
 ||lnpost.firona.pw^
 ||firouzilawapc.com^
 ||firrectly.top^
+||firrycandour.com^
 ||firs.site^
 ||marketing.first-insight.com^
 ||ox.first-law.com^
@@ -70469,6 +70474,7 @@
 ||inheritedgravysuspected.com^
 ||inheritedunstable.com^
 ||inheritedwren.com^
+||inheritknow.com^
 ||1243552353535.inhhome.top^
 ||clo.inhhome.top^
 ||cole.inhhome.top^
@@ -80301,6 +80307,7 @@
 ||kvsvug.xyz^
 ||kvtaaa.top^
 ||kvtgl4who.com^
+||kvum-bpelzw.icu^
 ||kvvadrat.net^
 ||kvymlsb.com^
 ||kvyyyde.cn^
@@ -104251,6 +104258,7 @@
 ||startup.oupeng.com^
 ||turbo2sdk-push.oupeng.com^
 ||ouphouch.com^
+||ouplc.icu^
 ||oupushee.com^
 ||oupusoma.net^
 ||ouqyid.com^
@@ -108439,7 +108447,7 @@
 ||yezztf.pinkelephant.co.kr^
 ||marketing.pinkerton.com^
 ||pinkies.pl^
-||traffic.pinklabel.com^
+||pinklabel.com^
 ||pinkleo.pro^
 ||pocgch.pinkmilk.de^
 ||pinkomtag.com^
@@ -125922,6 +125930,7 @@
 ||rumbazo.com^
 ||rumendia.com^
 ||rumine.date^
+||rumkhprg.com^
 ||rummagemason.com^
 ||rummentaltheme.com^
 ||rummyaffiliates.com^
@@ -149610,6 +149619,7 @@
 ||tufzdj.xyz^
 ||rkizpe.tugo.com.vn^
 ||tugonoyoi.com^
+||tugraughilr.xyz^
 ||tuhiwiahy.xyz^
 ||tuhzjrr.cn^
 ||ptlpel.tui.at^
@@ -153459,6 +153469,7 @@
 ||weld830.uunice.com^
 ||uuoizbtl.xyz^
 ||uuopp.com^
+||uuresdt.top^
 ||uurhhtymipx.com^
 ||upsecure.uurwebw.shop^
 ||pop.uusee.com^
