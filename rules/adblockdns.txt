@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241024162410
-! Last modified: 2024/10/24 16:24:10
-! Blocked domains: 162020
+! Version: 20241025002127
+! Last modified: 2024/10/25 00:21:27
+! Blocked domains: 162030
 ! unBlocked domains: 76
 !
 ||awklir.0506mall.com^
@@ -3262,6 +3262,7 @@
 ||go-mobile.786718.com^
 ||787787.com^
 ||www.7878bjl.com^
+||78847798.xyz^
 ||789.club^
 ||789.fun^
 ||789.mobi^
@@ -5465,6 +5466,7 @@
 ||achieverknee.com^
 ||achilles-ena.com^
 ||achillestendonrupturepedia.com^
+||achingborder.com^
 ||achleshwar.in^
 ||achoachemain.com^
 ||achpokevvh.com^
@@ -33541,6 +33543,7 @@
 ||protection.ccpolice.com^
 ||ccrenovationsllc.com^
 ||ccrkpsu.com^
+||ccryxqgqf.com^
 ||ccswpsvc.com^
 ||cctop.cl^
 ||btrace.ysp.cctv.cn^
@@ -47215,6 +47218,7 @@
 ||downloadyt.com^
 ||downloadz.us^
 ||downparanoia.com^
+||downright-administration.pro^
 ||downrivertoday.com^
 ||downsizeavonlake.com^
 ||downstairsnegotiatebarren.com^
@@ -70330,6 +70334,7 @@
 ||emma-414870e223.huodonghezi.com^
 ||huomob.com^
 ||huoxingtan66.com^
+||huoxun.wang^
 ||huoying666.com^
 ||hupiru.uno^
 ||huppontic.com^
@@ -71874,6 +71879,7 @@
 ||mail3.ijungomail.com^
 ||mail4.ijungomail.com^
 ||api.ijunhai.com^
+||ijwkdmzru.com^
 ||vinted.ik57129.com^
 ||booking.ik98592.bid^
 ||ikahnruntx.com^
@@ -86209,8 +86215,7 @@
 ||logsss.com^
 ||logtail.com^
 ||logua.com^
-||1.logunews.com^
-||www.logunews.com^
+||logunews.com^
 ||logxp.ru^
 ||logystowtencon.info^
 ||logz.io^
@@ -116234,6 +116239,7 @@
 ||qdfscelxyyem.club^
 ||qdfxeqhnjuknyy.com^
 ||qdhyy.cn^
+||qdjsiyt.icu^
 ||qdlyqbpzfkl.com^
 ||qdmil.com^
 ||qdoeki.xyz^
@@ -121708,6 +121714,7 @@
 ||ads.rpgdot.com^
 ||rpgenerator.net^
 ||rpgmasterleague.com^
+||rpjkwhkxh.com^
 ||rplnd60.com^
 ||rplzmw.cn^
 ||homepay-pl-48d33c44.rpm-technik.at^
@@ -125049,6 +125056,7 @@
 ||sekhemonline.net^
 ||sekindo.com^
 ||sekomums.lv^
+||sekqeraneosbm.com^
 ||seks-telefon.com^
 ||bup.seksohub.com^
 ||sda.seksohub.com^
@@ -126299,6 +126307,7 @@
 ||shatterconceal.com^
 ||shattuckkids.org^
 ||gsyegj.shatura.com^
+||shauduptel.net^
 ||shaugacakro.net^
 ||shauksug.com^
 ||shauladubhe.com^
@@ -147971,6 +147980,7 @@
 ||a8clk.www.uz.team^
 ||dkrxls.uzaktangelir.com^
 ||uzasadnijpowod.click^
+||uzauxaursachoky.net^
 ||uzbekistanes-reales.site^
 ||uzdhsjuhrw.com^
 ||uzerly.net^
