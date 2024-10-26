@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241026162149
-! Last modified: 2024/10/26 16:21:49
-! Blocked domains: 160885
+! Version: 20241027002107
+! Last modified: 2024/10/27 00:21:07
+! Blocked domains: 160888
 ! unBlocked domains: 92
 !
 ||awklir.0506mall.com^
@@ -1794,6 +1794,7 @@
 ||8890.335678.club^
 ||analytic.337.com^
 ||33848102.xyz^
+||33862684.xyz^
 ||338kbet.com^
 ||339.cn^
 ||3393.com^
@@ -101227,6 +101228,7 @@
 ||optidownloader.com^
 ||aoqhfs.optikdodomu.cz^
 ||optikgeneral.com^
+||optimads.info^
 ||go.optimahcs.com^
 ||track.optimalhealthtoolkit.com^
 ||tq.optimalscreen2.online^
@@ -140658,6 +140660,7 @@
 ||toutoucao1.com^
 ||toutpourmonjardin.com^
 ||toutsneskhi.com^
+||touvxlii.top^
 ||touzia.xyz^
 ||touzoaty.net^
 ||tovanillitechan.com^
