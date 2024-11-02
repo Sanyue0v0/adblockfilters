@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241102002232
-! Last modified: 2024/11/02 00:22:32
-! Blocked domains: 152144
+! Version: 20241102092037
+! Last modified: 2024/11/02 09:20:37
+! Blocked domains: 152160
 ! unBlocked domains: 73
 !
 ||inp0st.0344223.xyz^
@@ -11328,6 +11328,7 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animi2.com^
@@ -20938,6 +20939,7 @@
 ||metrics.biddertmz.com^
 ||biddingfitful.com^
 ||biddingx.com^
+||bidehunter.com^
 ||bideo-cdn.xyz^
 ||bideo-chat.xyz^
 ||bideo-endpoint.com^
@@ -46057,7 +46059,6 @@
 ||www2.eoilreports.com^
 ||eolcdn.com^
 ||eole-passion.com^
-||5-157-110-232.dyn.eolo.it^
 ||eolx.pl^
 ||mail.eomega.com^
 ||target.eon.de^
@@ -53706,6 +53707,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -62895,6 +62897,7 @@
 ||frdoki.heisei-housewarming.work^
 ||heisenbergseocompany.com^
 ||ensighten.heishop.mx^
+||heiviek.com^
 ||heixbai.com^
 ||heixidor.com^
 ||data-cf8fd9b799.heizungsjournal.de^
@@ -65346,7 +65349,7 @@
 ||huhue.com^
 ||huidakms.com.cn^
 ||huigt6y.xyz^
-||huiip.top^
+||www.huiip.top^
 ||tr.newsletter.huilesdolive.fr^
 ||tr.vernede.huilesdolive.fr^
 ||1.huilv.cc^
@@ -66629,6 +66632,7 @@
 ||ifllwfs.com^
 ||api.iflychat.com^
 ||logconf.iflytek.com^
+||ifmccdn.icu^
 ||research.ifmo.ru^
 ||ifnpost-pl.top^
 ||ifollosports.com^
@@ -66924,6 +66928,7 @@
 ||ikouthaupi.com^
 ||ikpowkdsa.info^
 ||q.ikre.xyz^
+||ikspoopfp.com^
 ||dsy-disneyplus.ikwb.com^
 ||furpolksa.ikwb.com^
 ||pl.annre.ikwb.com^
@@ -75255,6 +75260,7 @@
 ||kjjjusb.xyz^
 ||kjkulnpfdhn.com^
 ||kjlzt.cn^
+||kjnsgqe.icu^
 ||kjrspnbf.xyz^
 ||kjsvvnzcto.com^
 ||kjubky.xyz^
@@ -83844,6 +83850,7 @@
 ||images.info.mercycare.org^
 ||strack.mercycareaz.org^
 ||mereanglicanism.com^
+||merelsrealm.com^
 ||meremark.com^
 ||go.meretmarine.com^
 ||mergeandcenter.com^
@@ -86624,6 +86631,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||adx.mossru.com^
+||mossyiapyges.com^
 ||lnk.most-days.com^
 ||mostauthor.com^
 ||mostbet-original.ru^
@@ -90034,7 +90042,6 @@
 ||netfirm.biz^
 ||netflix-bhr.com^
 ||netflix-hilfe.com^
-||netflix-logariasmos.com^
 ||netflix-support-account.com^
 ||customerevents.netflix.com^
 ||netflix4u.com^
@@ -90381,6 +90388,7 @@
 ||newgrannypics.com^
 ||ads.newgrounds.com^
 ||promo.newgrowthtrends.com^
+||newgstore.com^
 ||newhacks24.net^
 ||krskux.newhaircaps.com.br^
 ||s.newhamburgindependent.ca^
@@ -94479,6 +94487,7 @@
 ||a8clk.cv.onedenki.jp^
 ||static.onedio.com^
 ||onedmp.com^
+||onedomainpro.com^
 ||unlock.onedreamsports.de^
 ||onedrive-download.com^
 ||onedrive-sd.com^
@@ -101139,6 +101148,7 @@
 ||plataolivol24.shop^
 ||platchteopan.com^
 ||links.plated.com^
+||platedmanlily.com^
 ||mt.plateiq.com^
 ||platelosingshameless.com^
 ||plateruena.com^
@@ -111875,6 +111885,7 @@
 ||rbfdf.xyz^
 ||go.rbfinance.com^
 ||rbhunp.xyz^
+||rbift.icu^
 ||mailer.rbis-averydennison.com^
 ||sdc.rbistats.com^
 ||rbiwpiccr.top^
@@ -121597,6 +121608,7 @@
 ||skuligpzifan.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
+||skullmagnets.com^
 ||skullypower.com^
 ||skunkfunkcrypto.com^
 ||skunscold.top^
@@ -125320,6 +125332,7 @@
 ||tfomk.steamingmugcafe.com^
 ||steamkeygiveaway.com^
 ||steamkeysfree.com^
+||steammcommunuty.ru^
 ||steamproxy.net^
 ||steamqr.site^
 ||steamrip.click^
@@ -142807,6 +142820,7 @@
 ||vuibbuy.com^
 ||vuigiaitri.online^
 ||vuiluaz.xyz^
+||vuirssd.icu^
 ||vuiuk88.club^
 ||vujriahqyleveh.com^
 ||vul-sta.online^
@@ -146478,6 +146492,7 @@
 ||article.wmc-media.com^
 ||polska.wmc-media.com^
 ||wmcasher.ru^
+||wmcbld.top^
 ||wmcdpt.com^
 ||wmclickz.ru^
 ||wmdzefk.com^
@@ -149488,6 +149503,7 @@
 ||yeseid.com^
 ||yesflix.live^
 ||yesflix.online^
+||yesgwyn.com^
 ||ads.yeshanews.com^
 ||bi.yeshen.com^
 ||launcher.us.yeshen.com^
