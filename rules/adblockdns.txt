@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241109002250
-! Last modified: 2024/11/09 00:22:50
-! Blocked domains: 149627
+! Version: 20241109091828
+! Last modified: 2024/11/09 09:18:28
+! Blocked domains: 149650
 ! unBlocked domains: 148
 !
 ||donamervotes.000.pe^
@@ -2730,6 +2730,7 @@
 ||stat-58home.58che.com^
 ||58isg.cn^
 ||58mingri.cn^
+||58shuz.com^
 ||c2.58toto.net^
 ||m.58xs.tw^
 ||590578zugbr8.com^
@@ -3042,6 +3043,7 @@
 ||chinchilla.68keys.io^
 ||68lottery.com^
 ||app.68win.co^
+||68yscw.com^
 ||69-13-59.ru^
 ||69-hky.cfd^
 ||trace.690.co^
@@ -19351,6 +19353,7 @@
 ||avwjyvzeyeov.top^
 ||avwjyvzeymmb.top^
 ||avwlptrk.com^
+||avxonsp.icu^
 ||avybz.com^
 ||meds.avycaz.com^
 ||avygpim.com^
@@ -33448,6 +33451,7 @@
 ||vision.cbre.com.au^
 ||image.cbrecommunications.com^
 ||vision.cbresi.com.au^
+||cbro.win^
 ||aa.cbs.com^
 ||flv.sales.cbs.com^
 ||link.tv.cbs.com^
@@ -45561,6 +45565,7 @@
 ||dn3hksy6kf.com^
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dn3y71tq7jf07.cloudfront.net^
+||dn4qoz.com^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dn7u3i0t165w2.cloudfront.net^
 ||dn9uzzhcwc0ya.cloudfront.net^
@@ -61396,6 +61401,7 @@
 ||graphzer.com^
 ||falsterbo.grappee.space^
 ||grapseex.com^
+||graptaupsi.net^
 ||ff-member.grarena.vn^
 ||a8cv.grassbeaute.jp^
 ||grassfreedom.com^
@@ -61768,6 +61774,7 @@
 ||gripspigyard.com^
 ||gripwheels.com^
 ||grirault.net^
+||grirqaks.com^
 ||grirtouy.com^
 ||gristleupanaya.com^
 ||gritaware.com^
@@ -62074,6 +62081,7 @@
 ||guardiandigitalcomparison.co.uk^
 ||info.guardianews.site^
 ||connect.guardiangroupbenefits.com^
+||guardiannostrils.com^
 ||guardiansesports.com^
 ||ads.guardianunlimited.co.uk^
 ||go.guardicore.com^
@@ -65199,6 +65207,7 @@
 ||a8cv.holo-bell.com^
 ||marketing.holocentric.com^
 ||holographichno.com^
+||hologydeno.info^
 ||news.holomag.info^
 ||holor0701.cn^
 ||holsfellen.shop^
@@ -76251,6 +76260,7 @@
 ||koun-yogen.com^
 ||koundayori.com^
 ||kounnomichishirube.net^
+||kouphouwhajee.net^
 ||kouryuu.net^
 ||kousenkan.com^
 ||kousjcignye.com^
@@ -76943,6 +76953,7 @@
 ||kxsvelr.com^
 ||kxtmstjs.org^
 ||kxxdxikksc.space^
+||kxygsjv.icu^
 ||kyad88.com^
 ||forms.kyano.app^
 ||kyaywy.xyz^
@@ -93982,6 +93993,7 @@
 ||obouckie.com^
 ||obovsemonline.ru^
 ||oboxads.com^
+||obr3.space^
 ||obradjgifja.com^
 ||obrennan.org^
 ||obscenelyclean.org^
@@ -94243,6 +94255,7 @@
 ||odpowiedzenie.click^
 ||odpowiedzialnemedia.rest^
 ||odpowiedzmedialna.rest^
+||odqciqdazjuk.com^
 ||odrownowagaco.yachts^
 ||correouy.odsr.top^
 ||odstraszacz-szkodnikow-pl.com^
@@ -98348,6 +98361,7 @@
 ||paypertext.com^
 ||paypie.net^
 ||paypiz.com^
+||payplintelverify3.site^
 ||payplservice52170.site^
 ||payplservice52171.site^
 ||payplservice52172.site^
@@ -98535,6 +98549,7 @@
 ||www.pcpremium.pl^
 ||www.pcprivacysoftware.com^
 ||a.pcpro.co.uk^
+||pcqze.tech^
 ||pcrentalindia.com^
 ||metrics.pcrichard.com^
 ||tick.pcrpriser.se^
@@ -113694,6 +113709,7 @@
 ||sambaads.com^
 ||marketing.sambasafety.com^
 ||samboc.com^
+||gabrielahlavack.samcart.com^
 ||samchist.ru^
 ||samconus.com^
 ||login-panel.samdewilde.com^
@@ -119497,6 +119513,7 @@
 ||misc.api.snaptube.app^
 ||snaretoeburp.work^
 ||snarlaptly.com^
+||snarlsfuzzes.com^
 ||app.snbla.com^
 ||et.sncf.com^
 ||sneakersowo.pl^
@@ -129147,6 +129164,7 @@
 ||thinrabbitsrape.com^
 ||tracking.thiomucase.es^
 ||third-tracking.com^
+||thirdads.me^
 ||thirdage.com^
 ||thirdgas.com^
 ||thirdonshop.com^
@@ -131265,6 +131283,7 @@
 ||track.tproger.ru^
 ||tpwtjya.com^
 ||tpydhykibbz.com^
+||tqanmatx.icu^
 ||tqbrnd.xyz^
 ||tquvbfl.com^
 ||tr3ndytresses.xyz^
@@ -132398,6 +132417,7 @@
 ||trimay.ru^
 ||solution.trimech.com^
 ||app.trimenu.com^
+||trimmoits.com^
 ||trimpagkygg.com^
 ||trimpost.com^
 ||trimpur.com^
@@ -133620,6 +133640,7 @@
 ||tydo88.com^
 ||tydouke.com^
 ||info.tyfone.com^
+||tyfqjbuk.one^
 ||tyfuufdp-xbd.top^
 ||data-f1c47705fc.tygodnik-rolniczy.pl^
 ||tygsqtkyiwxb.com^
@@ -138915,6 +138936,7 @@
 ||vjcbm.com^
 ||vjdciu.com^
 ||vjie.com^
+||vjlyljbjjmley.top^
 ||usr.vjqiqow.top^
 ||www.vjsoft.net^
 ||vjugz.com^
@@ -145125,6 +145147,7 @@
 ||xjefqrxric.com^
 ||xjfqqyrcz.com^
 ||xjkhaow.com^
+||xjlqybkll.com^
 ||xjpakmdcfuqe.biz^
 ||xjpakmdcfuqe.com^
 ||xjpakmdcfuqe.in^
