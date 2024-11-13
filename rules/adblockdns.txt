@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241113002345
-! Last modified: 2024/11/13 00:23:45
-! Blocked domains: 148088
+! Version: 20241113092111
+! Last modified: 2024/11/13 09:21:11
+! Blocked domains: 148094
 ! unBlocked domains: 60
 !
 ||foodnetworkprime-nt.000.pe^
@@ -14389,6 +14389,7 @@
 ||metric.asos.com^
 ||metric.asos.de^
 ||creativeassets.asosservices.com^
+||rapid-glade-cde8.asoumare042024.workers.dev^
 ||asound.no^
 ||asozordoafie.com^
 ||n339.asp-cc.com^
@@ -15756,6 +15757,7 @@
 ||avsifil.com^
 ||avskjvlays.info^
 ||avskype.com^
+||avspda.xyz^
 ||avsvmcloud.com^
 ||info.avtecinc.com^
 ||avthelkp.net^
@@ -56229,6 +56231,7 @@
 ||ghazel.ru^
 ||hchlqx.ghbass.com^
 ||ghbdsbfd.com^
+||gheqien.com^
 ||ghgasdt963.shop^
 ||ghiftshop.com^
 ||ghldemo.com^
@@ -76660,6 +76663,7 @@
 ||leatheringwordes.pro^
 ||leatmansures.com^
 ||leaurned-fundonals.com^
+||stats.leavemealone.com^
 ||leaveoverwork.com^
 ||leavesofgrassmovie.com^
 ||leaveundo.com^
@@ -78632,6 +78636,7 @@
 ||locomotivetroutliquidate.com^
 ||analysis.aws.locondo.jp^
 ||go.locosonic.com^
+||locpikbb.icu^
 ||locrian-verbena-aerosteon.glitch.me^
 ||azwucq.locservice.fr^
 ||loctan675550.vercel.app^
@@ -84391,6 +84396,7 @@
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mj70.cn^
 ||mjappzvz.xyz^
+||mjbidlg.icu^
 ||app.mjec.ca^
 ||lucid.mjhassoc.com^
 ||mjhygiene.com^
