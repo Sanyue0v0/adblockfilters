@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241117002244
-! Last modified: 2024/11/17 00:22:44
-! Blocked domains: 171696
+! Version: 20241117093702
+! Last modified: 2024/11/17 09:37:02
+! Blocked domains: 171713
 ! unBlocked domains: 143
 !
 ||00808.vip^
@@ -10025,7 +10025,7 @@
 ||algelumina.com^
 ||algerianembassy.co.in^
 ||stats2.algo.at^
-||logs.chatboost-cv.algoage.co.jp^
+||chatboost-cv.algoage.co.jp^
 ||www.algocashmaster.com^
 ||algodon.net^
 ||analytics.algoepico.net^
@@ -14400,6 +14400,7 @@
 ||apozy.biz^
 ||status-ch.app-2024.de^
 ||app-adforce.jp^
+||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-authority.com^
 ||app-authorization.vercel.app^
@@ -20277,7 +20278,7 @@
 ||beigeturtle97.sakura.ne.jp^
 ||ad.beihai365.com^
 ||beijinglvyou.net.cn^
-||www.beiletoys.com^
+||beiletoys.com^
 ||adm.beimg.com^
 ||beingajoyto.info^
 ||beinghypothermic.blogspot.com^
@@ -24175,7 +24176,7 @@
 ||bkxpph.xyz^
 ||bkyqhavuracs.com^
 ||data-997fc825f1.bkz.de^
-||www.bkzj.wang^
+||bkzj.wang^
 ||bkzmtp.xyz^
 ||s.bl-1.com^
 ||s2.bl-1.com^
@@ -35104,6 +35105,7 @@
 ||bkt.clouddn.com^
 ||smetrics.cloudera.com^
 ||clouderrorreporting.googleapis.com^
+||cloudf-update.com^
 ||cloudfastads.ru^
 ||cloudflare-stat.net^
 ||csp-reporting.cloudflare.com^
@@ -45521,6 +45523,7 @@
 ||dmeq7blex6x1u.cloudfront.net^
 ||dmetherearlyinhes.info^
 ||dmeukeuktyoue.info^
+||dmevejjt.icu^
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmgeducation.com^
 ||dmhbbivu.top^
@@ -45676,6 +45679,7 @@
 ||data-47ee1b0882.do-li.de^
 ||do-not-tracker.org^
 ||do-post.info^
+||quit.do.am^
 ||tds-banner.do.am^
 ||do09.net^
 ||do4dude.com^
@@ -50582,6 +50586,7 @@
 ||eogaeapolaric.com^
 ||olx.eogloszenie.pl^
 ||eolcdn.com^
+||5-157-110-232.dyn.eolo.it^
 ||eolx.pl^
 ||eom-nv.com^
 ||mail.eomega.com^
@@ -55484,7 +55489,6 @@
 ||firsttrack.ru^
 ||firstuploader.com^
 ||abs.firstvds.ru^
-||firstviewautoservice.com^
 ||firstweb.pl^
 ||firstwrist.com^
 ||firtaips.com^
@@ -55968,7 +55972,7 @@
 ||fle652.net^
 ||fleahat.com^
 ||flebolab.ru^
-||www.flechabusretiro.com.ar^
+||flechabusretiro.com.ar^
 ||fleckfound.com^
 ||flecole.com^
 ||flector-conseil.com^
@@ -60676,6 +60680,7 @@
 ||smetrics.apps.ge.com^
 ||ge041b.cfd^
 ||ge1.ca^
+||ge189.com^
 ||data-05c346d0b0.gea.de^
 ||secureclicks.geae.com^
 ||geakr.com^
@@ -63366,6 +63371,7 @@
 ||data-434ba718f3.gofeminin.de^
 ||data-5dd8125a5b.gofeminin.de^
 ||s.gofile.io^
+||store6.gofile.io^
 ||goflix.club^
 ||go-test.goflux.de^
 ||goforandroid.com^
@@ -65178,7 +65184,7 @@
 ||grirault.net^
 ||a8clk.grirose.jp^
 ||grirtouy.com^
-||www.griservice.ro^
+||griservice.ro^
 ||go.grist.org^
 ||gristleupanaya.com^
 ||gritaware.com^
@@ -74162,6 +74168,7 @@
 ||now.infinitecampus.com^
 ||infinitecasual.com^
 ||infinitee9adv6ntures.sbs^
+||paytest.infinitegalaxy.cn^
 ||www.infiniteunknown.net^
 ||tracking.infiniti-dubai.com^
 ||smeasurement.infiniti.ca^
@@ -83803,6 +83810,7 @@
 ||track.msadcenter.kpuo.com^
 ||kpyerxzn.xyz^
 ||d.kpzip.com^
+||mininews.kpzip.com^
 ||kq272lw4c.com^
 ||kq6lwk3m9g.ru^
 ||qc.kqbd88.com^
@@ -90565,7 +90573,7 @@
 ||manisngs.top^
 ||manistan.com^
 ||manitusbaclava.com^
-||manjeetsteelproductions.com^
+||www.manjeetsteelproductions.com^
 ||manlng.cc^
 ||manma-kobe.space^
 ||smetrics.mann-hummel.com^
@@ -94203,6 +94211,7 @@
 ||mirabelanalytics.com^
 ||miracle-door.com^
 ||smetrics.miracle-ear.com^
+||miracle-receives-lightbox-brighton.trycloudflare.com^
 ||response.miracle-recreation.com^
 ||miraclemango.xyz^
 ||miraclespin.com^
@@ -95194,6 +95203,7 @@
 ||mlcrosoftonline365activedirectorysapp.pages.dev^
 ||mlegyu.xyz^
 ||go.mlexmarketinsight.com^
+||mlgowell.org^
 ||mlicci.xyz^
 ||mlinkjg.cn^
 ||api.mlinks.co^
@@ -99189,7 +99199,6 @@
 ||deeplinks.myyogateacher.com^
 ||meta-events.myyosemitepark.com^
 ||tracker.myyschool.xyz^
-||kortatay.myz.info^
 ||adm.myzaker.com^
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
@@ -101723,7 +101732,6 @@
 ||newsguru18.com^
 ||newsharecounts.com^
 ||newsherenow.ru^
-||newshostingsupdate.com^
 ||newshotpage.com^
 ||amp-analytics.newshub.co.nz^
 ||newshubs.info^
@@ -102612,7 +102620,6 @@
 ||ningme.ru^
 ||ups-pl.ningo.shop^
 ||ningpoint.top^
-||niniaaaaa.alwaysdata.net^
 ||stc.ninisite.com^
 ||ninja.akamaized.net^
 ||ninjacasino.com^
@@ -105651,6 +105658,7 @@
 ||ohchat.net^
 ||info.ohdparts.com^
 ||ohgfd.top^
+||ohgorbqcegig.com^
 ||ohimunpracticalw.info^
 ||watchdog.ohio.gov^
 ||app.ohiobobcats.com^
@@ -106284,7 +106292,6 @@
 ||data-90b8b64b92.omnibusrevue.de^
 ||refwkk.omnicalculator.com^
 ||omnicleaningservices.com^
-||omnicom.fr^
 ||omniconvert.com^
 ||omnicraftworks.com^
 ||omnidokingon.com^
@@ -108947,6 +108954,7 @@
 ||ovgzbnjj.com^
 ||analytics.ovh.com^
 ||ns38541.ovh.net^
+||vps-d21ef853.vps.ovh.net^
 ||learn.oviahealth.com^
 ||tracking.ent.oviahealth.com^
 ||ovibospeseta.com^
@@ -112928,7 +112936,6 @@
 ||lkocef.pixartprinting.fr^
 ||pixazza.com^
 ||pixcelplus.com^
-||cdn1.pixel-story.shop^
 ||pixel-tracker.com^
 ||pixel.ad^
 ||ntrfr.pixel.bet^
@@ -114078,6 +114085,7 @@
 ||pocketgolf.host^
 ||pocketjaguar.com^
 ||pocketmath.com^
+||trck.pocketmoon.me^
 ||track.pocketoption.asia^
 ||pocketoption.com^
 ||click.pocketoption.world^
@@ -115525,6 +115533,7 @@
 ||postoffltece.top^
 ||postpagodescuentos.com^
 ||postperurs.cc^
+||postposted-dat-realistic-email.trycloudflare.com^
 ||usps.postqal.top^
 ||postquare.com^
 ||vidamsag.postr.hu^
@@ -131178,6 +131187,7 @@
 ||segments.scopely.io^
 ||metrics.scopus.com^
 ||scorbark.com^
+||scorchads.com^
 ||scorchsorchic.com^
 ||score-feed.com^
 ||scorealtosuper.com^
@@ -136079,6 +136089,8 @@
 ||m.smartnaturalremedies.com^
 ||smartnews-ads.com^
 ||b.smartnews.be^
+||pixel.smartnews.com^
+||pixel.dev.smartnews.com^
 ||smartocto.com^
 ||smartoffer.site^
 ||smartokids.com^
@@ -153911,7 +153923,6 @@
 ||ujrspnbf.xyz^
 ||ujrzymyprawde.click^
 ||ujtgtmj.com^
-||ujuju.for-better.biz^
 ||ujuju.from-md.com^
 ||ujuju.here-for-more.info^
 ||ujujuju.barrel-of-knowledge.info^
@@ -154677,6 +154688,7 @@
 ||go.unitedcp.com^
 ||uniteddev.click^
 ||unitedforce.sbs^
+||pop.unitedgate.co.jp^
 ||rt.unitedhealthassist.com^
 ||data.member.unitedhealthcare.com^
 ||ifp.planbenefits.unitedhealthcare.com^
@@ -156308,6 +156320,8 @@
 ||build.usgbc.org^
 ||marketing.usglobaltax.com^
 ||trwxvx.usgoldbureau.com^
+||usgowell.com^
+||usgowell.org^
 ||usgymnasticscamps.com^
 ||go.trk.ushealthnet.com^
 ||ushealthyadvisor.com^
@@ -158470,6 +158484,7 @@
 ||vider-vod.pl^
 ||jkwdsl.videt.ro^
 ||ads.videy.co^
+||ads-api.videy.co^
 ||ads2.videy.co^
 ||ads3.videy.co^
 ||vidhaze.com^
@@ -163641,7 +163656,6 @@
 ||whaitsaitch.com^
 ||whaleads.com^
 ||whaleapartmenthumor.com^
-||transfer.whalebone.io^
 ||whalecloud.com^
 ||whaleman.ru^
 ||whalems.com^
@@ -166036,6 +166050,7 @@
 ||wswsnews.net^
 ||wswxsk.xyz^
 ||wsyfsg.xyz^
+||soft.wsyhn.com^
 ||wszyscyskupieni.click^
 ||wszystkiefilmy.pl^
 ||wszystkienowinki.click^
@@ -166232,6 +166247,7 @@
 ||stats.wwd.com^
 ||ads20.wwe-media.de^
 ||ads.wwe.biz^
+||wweisie.top^
 ||engage.wwettshow.com^
 ||suydnc.wwf.it^
 ||snprxx.wwfmarket.com^
@@ -167447,7 +167463,7 @@
 ||arabs.xn--ngboe5a6f.com^
 ||arabs.xn--ngbs7dg.net^
 ||ad.xn--o9jem5iv41o982db8k.jp^
-||xn--on3b15m2lco2u.com^
+||www.xn--on3b15m2lco2u.com^
 ||xn--os-g7s.com^
 ||xn--ox-xqa.pl^
 ||stat-ssl.xn--pckua2a7gp15o89zb.com^
@@ -169659,6 +169675,7 @@
 ||tx-kmpaudio.pull.yximgs.com^
 ||v1-ad.video.yximgs.com^
 ||v2-ad.video.yximgs.com^
+||yxjcyxy.icu^
 ||yxjsibeugmmj.com^
 ||yxkbgg.xyz^
 ||yxmrqc.com^
