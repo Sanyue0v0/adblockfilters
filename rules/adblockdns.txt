@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241119162522
-! Last modified: 2024/11/19 16:25:22
-! Blocked domains: 137913
+! Version: 20241120002420
+! Last modified: 2024/11/20 00:24:20
+! Blocked domains: 137938
 ! unBlocked domains: 94
 !
 ||d0ce8193a8.04b6001ba9.com^
@@ -605,7 +605,7 @@
 ||130gelh8q.de^
 ||allegrolokalnie.13131414.shop^
 ||131377.com^
-||ca74179f92.132ffebe8c.com^
+||132ffebe8c.com^
 ||133014.cc^
 ||133u.com^
 ||133uu.com^
@@ -3270,6 +3270,7 @@
 ||9b9812f859.7a9eb57b9d.com^
 ||6fbb07e2de.7aa82805b9.com^
 ||7adpower.com^
+||7aey.icu^
 ||7airtrendy.xyz^
 ||7anfpatlo8lwmb.com^
 ||7app.top^
@@ -10378,6 +10379,7 @@
 ||alrightlemonredress.com^
 ||alsaqibgroup.com^
 ||alsawatgroups.com^
+||alsdebaticalfelixsto.org^
 ||send1.alsearsmd.com^
 ||alsharqgate.com^
 ||alsindustratebil.com^
@@ -10966,6 +10968,7 @@
 ||amuletgloom.com^
 ||amunfezanttor.com^
 ||amung.us^
+||stats.amur.life^
 ||amused-condition.com^
 ||amuseer.com^
 ||amusementchillyforce.com^
@@ -16466,6 +16469,7 @@
 ||bagelkit.com^
 ||bagelseven.com^
 ||bageltiptoe.com^
+||baghlachalked.com^
 ||baghoglitu.net^
 ||baghoorg.xyz^
 ||bagjuxtapose.com^
@@ -24825,6 +24829,7 @@
 ||bulgaria-web-developers.com^
 ||bulgariabg.com^
 ||bulginglair.com^
+||bulgingquintet.top^
 ||bulisite.top^
 ||ads.buljobs.bg^
 ||a8cv.bulk.co.jp^
@@ -25219,6 +25224,7 @@
 ||bwuwirv.cn^
 ||bx-cloud.com^
 ||bxacmsvmxb.com^
+||bxbkh.love^
 ||vezsyr.bxblue.com.br^
 ||bxlmrl.xyz^
 ||bxmp.lat^
@@ -29661,6 +29667,7 @@
 ||cmdshare.com^
 ||www.cmdy168.com^
 ||sync.cmedia.s3.amazonaws.com^
+||cmelr.com^
 ||cmensxx.top^
 ||cmentosrl.com^
 ||acv.cmf-hikari.net^
@@ -35257,6 +35264,7 @@
 ||datawrkz.com^
 ||dataxchangeprofessional.com^
 ||datayi.cn^
+||datazap.online^
 ||datcuoc247.com^
 ||date-app.net^
 ||date-il.com^
@@ -35569,6 +35577,7 @@
 ||ddm.io^
 ||cdn.ddmanager.ru^
 ||ddmuiijrdvv0s.cloudfront.net^
+||ddndbjuseqi.com^
 ||epsores.ddns.cam^
 ||ddns.info^
 ||ddns.name^
@@ -39273,7 +39282,7 @@
 ||dressmakertumble.com^
 ||dreuaxk.icu^
 ||drev.biz^
-||hs.drewitecossic.com^
+||drewitecossic.com^
 ||drewtop.shop^
 ||dreyeli.info^
 ||dreylamba.wixsite.com^
@@ -42287,6 +42296,7 @@
 ||www.enduringvision.com^
 ||endurohog.com^
 ||endurosweekday.com^
+||endwaysdsname.com^
 ||endyloop.com^
 ||endymehnth.info^
 ||bok.enea-sa.pl^
@@ -48114,6 +48124,7 @@
 ||formulawire.com^
 ||go.formverse.com^
 ||a8trck.ws.formzu.net^
+||fornaxmetered.com^
 ||connyp.fornication.website^
 ||ovolytics.fornication.website^
 ||piest.fornication.website^
@@ -49222,6 +49233,7 @@
 ||fufuiloirtu.com^
 ||fugcgfilma.com^
 ||fugetech.com^
+||fugitiveautomaticallybottled.com^
 ||fuhbg.xyz^
 ||fuhbimbkoz.com^
 ||i4.fuimg.com^
@@ -52190,6 +52202,7 @@
 ||gochnik.top^
 ||goclamdep.net^
 ||goclick.com^
+||goclicknext.com^
 ||filter.goclickz.net^
 ||filter-eu.goclickz.net^
 ||xml.goclickz.net^
@@ -56865,6 +56878,7 @@
 ||honoursimmoderate.com^
 ||hontestmere.live^
 ||honwjjrzo.com^
+||honzoenjewel.shop^
 ||hoo1luha.com^
 ||hoodboth.com^
 ||hoodentangle.com^
@@ -57748,6 +57762,7 @@
 ||httpsoldfartlifehacks.com^
 ||httpsss-www-roblox.com^
 ||hturnshal.com^
+||htwjo.com^
 ||htwylt.com^
 ||www.htxpage.xyz^
 ||htxwzp.xyz^
@@ -65593,6 +65608,7 @@
 ||vuzkbh.jshealthvitamins.com^
 ||jshonghuadq.com^
 ||jsing.net^
+||jsiygcyzrhg.club^
 ||jsjsjsjddd.top^
 ||jsks.biz^
 ||aff.jskyservices.com^
@@ -71109,6 +71125,7 @@
 ||links.insurance.lloydsbank.com^
 ||info.lloydslistintelligence.com^
 ||intel-trk.lloydslistintelligence.com^
+||llozybovlozvk.top^
 ||llyighaboveth.com^
 ||a.llysc.cn^
 ||llyvjs.com^
@@ -108434,6 +108451,7 @@
 ||ryremovement.com^
 ||ryrmvd.xyz^
 ||ry0.rythmefm.com^
+||rytransionsco.org^
 ||vinted-pl-gj32d.ryuji.top^
 ||ryushare.com^
 ||rywnvzd.cn^
@@ -109799,6 +109817,7 @@
 ||ads.scifi.com^
 ||adserver.sciflicks.com^
 ||go.sciforma.com^
+||scihuns.com^
 ||plausible.scimago.es^
 ||event.scimo.io^
 ||data-4754325bf6.scinexx.de^
@@ -112930,6 +112949,7 @@
 ||sketchyrecycleimpose.com^
 ||sketchystairwell.com^
 ||track.sketerterus.com^
+||sketfarinha.shop^
 ||promo.skf.com^
 ||mail.skfbearing.network^
 ||skfda5.com^
@@ -115395,6 +115415,7 @@
 ||stronalogowania.square.site^
 ||dhl.lotnicze.squaredesign.pl^
 ||squareforensicbones.com^
+||squarertubal.com^
 ||clanker-events.squarespace.com^
 ||events.squarespace.com^
 ||bnc.squaretrade.com^
@@ -117155,6 +117176,7 @@
 ||sunnestremit.com^
 ||sunnimiq.cf^
 ||sunnshele.com^
+||sunnudvelure.com^
 ||sunny-beach-car-rental.com^
 ||cv.sunny-store-cart.com^
 ||sunnycategoryopening.com^
@@ -121229,6 +121251,7 @@
 ||jackal.thetie.io^
 ||ads.thetimes.co.uk^
 ||pac.thetimes.co.uk^
+||pac.thetimes.com^
 ||test-app.thetimes.link^
 ||sp.thetimesherald.com^
 ||srepdata.thetimesherald.com^
@@ -124658,6 +124681,7 @@
 ||metric.tsite.jp^
 ||smetric.tsite.jp^
 ||tsiwqtng8huauw30n.com^
+||tsjjbvbgrugs.com^
 ||tsk4.com^
 ||tsk5.com^
 ||track.tskellyclare.com^
@@ -126579,6 +126603,7 @@
 ||unlikelymoscow.com^
 ||stats.unlimapps.com^
 ||www.unlimits.net^
+||www.unlinedmake.pro^
 ||www.unliomite.com^
 ||unlitui.com^
 ||unlock-account-payp0.site^
@@ -129977,7 +130002,6 @@
 ||vn88vui.live^
 ||vn88win.live^
 ||vn999.club^
-||vnadsrv.com^
 ||vnadssb.com^
 ||analytic.vnanet.vn^
 ||trk.vnative.com^
@@ -134006,6 +134030,7 @@
 ||wormgush.com^
 ||data-39822b659f.wormser-zeitung.de^
 ||data-a01a8a1ba4.wormser-zeitung.de^
+||wormsunflame.com^
 ||wornegmot.top^
 ||wornie.com^
 ||wornshoppingenvironment.com^
