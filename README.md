@@ -33,11 +33,11 @@
 | xinggsf mv | filter | [原始链接](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/xinggsf_mv.txt) | 2024/11/14 |
 | xinggsf rule | filter | [原始链接](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/xinggsf_rule.txt) | 2024/11/17 |
 | jiekouAD | filter | [原始链接](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/jiekouAD.txt) | 2024/11/18 |
-| anti-AD | dns | [原始链接](https://anti-ad.net/easylist.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/anti-AD.txt) | 2024/11/17 |
+| anti-AD | dns | [原始链接](https://anti-ad.net/easylist.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/anti-AD.txt) | 2024/11/20 |
 | anti-AD-PCDN | dns | [原始链接](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/discretion/pcdn.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/anti-AD-PCDN.txt) | 2024/09/13 |
 | Ad-YouTuBe-Hosts | dns | [原始链接](https://ghp.ci/https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adguardhome.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/Ad-YouTuBe-Hosts.txt) | 2024/11/20 |
 | 1Hosts (Lite) | dns | [原始链接](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/1Hosts_(Lite).txt) | 2024/11/11 |
-| AdRules DNS List | dns | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/AdRules_DNS_List.txt) | 2024/11/19 |
+| AdRules DNS List | dns | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/AdRules_DNS_List.txt) | 2024/11/20 |
 | AWAvenue Ads Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/AWAvenue_Ads_Rule.txt) | 2024/11/19 |
 | Hblock | dns | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/Hblock.txt) | 2024/11/19 |
 | NEO DEV HOST | dns | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/NEO_DEV_HOST.txt) | 2024/11/19 |
@@ -45,7 +45,7 @@
 | SmartTV Blocklist | dns | [原始链接](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/SmartTV_Blocklist.txt) | 2023/10/11 |
 | 1024 hosts | host | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/1024_hosts.txt) | 2023/08/31 |
 | ad-wars hosts | host | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/ad-wars_hosts.txt) | 2023/11/17 |
-| StevenBlack hosts | host | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/StevenBlack_hosts.txt) | 2024/11/15 |
+| StevenBlack hosts | host | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/StevenBlack_hosts.txt) | 2024/11/20 |
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Sanyue0v0/adblockfilters&type=Date)](https://star-history.com/#Sanyue0v0/adblockfilters&Date)
