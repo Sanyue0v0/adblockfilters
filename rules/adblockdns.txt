@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241122162504
-! Last modified: 2024/11/22 16:25:04
-! Blocked domains: 137863
+! Version: 20241123002510
+! Last modified: 2024/11/23 00:25:10
+! Blocked domains: 137871
 ! unBlocked domains: 70
 !
 ||d0ce8193a8.04b6001ba9.com^
@@ -31907,6 +31907,7 @@
 ||ctofestoon.click^
 ||ctoosqtuxgaq.com^
 ||ctosrd.com^
+||apps-pbd.ctraffic.io^
 ||ctrck.com^
 ||ctrdwm.com^
 ||ctrhub.com^
@@ -36614,6 +36615,7 @@
 ||dmetherearlyinhes.info^
 ||dmeukeuktyoue.info^
 ||dmg0877nfcvqj.cloudfront.net^
+||dmhclkohnrpvg.com^
 ||dmiredindeed.com^
 ||al.dmjegao.com^
 ||dmkdtkad2jyb9.cloudfront.net^
@@ -37695,6 +37697,7 @@
 ||drenchedanddrizzled.com^
 ||drenchsealed.com^
 ||drendragon.com^
+||drenqils.com^
 ||drenticor.shop^
 ||drepanidaemmyge.info^
 ||drepersonalinjury.com^
@@ -45906,6 +45909,7 @@
 ||img.foodspring.se^
 ||foodstorage.news^
 ||trackingapi.foody.vn^
+||fooguthauque.net^
 ||ads.fool.com^
 ||vrzmfy.fool.com^
 ||foolproofanatomy.com^
@@ -51808,6 +51812,7 @@
 ||gucaqai.com^
 ||guccimenjpsale.com^
 ||aqc.gucheng.com^
+||guckoash.net^
 ||guclubranda.com^
 ||info.gucu.org^
 ||mailer.gucu.org^
@@ -66663,6 +66668,7 @@
 ||kwbgmufi.com^
 ||kwdflqos.com^
 ||kwedzcq.com^
+||kweizad.top^
 ||kwekii.com^
 ||kwestiastabilnosci.com^
 ||kwgefe.com^
@@ -96102,6 +96108,7 @@
 ||rcoproperty.com.au^
 ||rclog.rcplatformhk.com^
 ||rcqqlwb.cn^
+||rcqwmwxdvnt.com^
 ||dmpmetrics.rcsmetrics.it^
 ||smetrics.rcsmetrics.it^
 ||static2-advtools.rcsobjects.it^
@@ -113167,6 +113174,7 @@
 ||tcsinksale.xyz^
 ||i.tct-rom.com^
 ||tctm.co^
+||tcvjhwizmy.com^
 ||a.tcyclops.com^
 ||tcyh.net^
 ||tczdym.com^
