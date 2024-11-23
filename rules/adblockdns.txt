@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241123002510
-! Last modified: 2024/11/23 00:25:10
-! Blocked domains: 137871
+! Version: 20241123092303
+! Last modified: 2024/11/23 09:23:03
+! Blocked domains: 137905
 ! unBlocked domains: 70
 !
 ||d0ce8193a8.04b6001ba9.com^
@@ -3639,6 +3639,7 @@
 ||d6957f181a.95580fd13d.com^
 ||www.9579.com^
 ||bnp.958985.com^
+||95d127d868.com^
 ||95dg3.cfd^
 ||95ppq87g.de^
 ||95urbehxy2dh.top^
@@ -3914,6 +3915,7 @@
 ||a24help.ru^
 ||a26blm.eu^
 ||45cf2c258c.a272118d17.com^
+||a2b219c0ce.com^
 ||marketing.a2btracking.com^
 ||a2carsdartford.com^
 ||a2dfp.net^
@@ -5059,6 +5061,7 @@
 ||ackhoo.com^
 ||ackng.com^
 ||acknowledgecalculated.com^
+||ackuwxjbk.com^
 ||go.aclara.com^
 ||artikle.aclcenergy.com^
 ||artykul.aclcenergy.com^
@@ -10137,6 +10140,7 @@
 ||anzu.io^
 ||ao-mall.com^
 ||ao1122kas.top^
+||ao1123kas.top^
 ||aoays.xyz^
 ||aob-diffusion.com^
 ||aobtwv.icu^
@@ -14744,6 +14748,7 @@
 ||b77.fun^
 ||b77.life^
 ||b7av.com^
+||b7bf007bbe.com^
 ||c348ffe089.b7f977b78d.com^
 ||b7om8bdayac6at.com^
 ||a.b7q9v8z.com^
@@ -15417,6 +15422,7 @@
 ||banterteeserving.com^
 ||bantex.ru^
 ||bantuan-barangan-dapur-malaysia.my.id^
+||bantucepat.com^
 ||ads.baoangiang.com.vn^
 ||adv.baoangiang.com.vn^
 ||baobabsruesome.com^
@@ -18821,6 +18827,7 @@
 ||binomo.broker^
 ||binomo.info^
 ||binomo1.com^
+||binomo2022.net^
 ||binomocadastro.com^
 ||binomoidr.com^
 ||binomorush.in^
@@ -19381,7 +19388,7 @@
 ||bkxpph.xyz^
 ||bkyqhavuracs.com^
 ||data-997fc825f1.bkz.de^
-||www.bkzj.wang^
+||bkzj.wang^
 ||bkzmtp.xyz^
 ||es.de.bl-1.com^
 ||s.bl-1.com^
@@ -32013,6 +32020,7 @@
 ||partner.cukrarskaskola.cz^
 ||partner.cukrarskyklub.cz^
 ||partner.cukraszvilag.hu^
+||cukuix.com^
 ||ttn.culinaryhealthguide.com^
 ||ttn.culinarylifestyleguide.com^
 ||culini.com^
@@ -33408,6 +33416,7 @@
 ||www.danair.es^
 ||danangmo.cn^
 ||danapintar.club^
+||danarakyatol.com^
 ||admin3.danarimedia.com^
 ||filter3.danarimedia.com^
 ||ad.danawa.com^
@@ -35981,6 +35990,7 @@
 ||diqhe.top^
 ||diqomoofai.live^
 ||r5.dir.bg^
+||dirdoophounu.net^
 ||pkqfky.direct-abris.com^
 ||ing.direct-acceso-app.com^
 ||ing.direct-acceso-es.com^
@@ -36724,7 +36734,6 @@
 ||data-47ee1b0882.do-li.de^
 ||do-not-tracker.org^
 ||do-post.info^
-||quit.do.am^
 ||tds-banner.do.am^
 ||do6256x8ae75.cloudfront.net^
 ||do67etikr7pwz.cloudfront.net^
@@ -37568,7 +37577,7 @@
 ||drabimprovement.com^
 ||drabing.info^
 ||dracodoomte.pro^
-||draconian.co.za^
+||www.draconian.co.za^
 ||dradolfogomez.com^
 ||pr.draenergy.com^
 ||dragdisrespectmeddling.com^
@@ -37598,6 +37607,7 @@
 ||dramaticdirection.com^
 ||dranujpurbey.com^
 ||drapart.org^
+||drapingleden.com^
 ||drapydust.com^
 ||drashokdixit.com^
 ||dratingmaject.com^
@@ -47787,6 +47797,7 @@
 ||gafsolutions.com^
 ||gafuner.space^
 ||gagdungeon.com^
+||gagebonus.com^
 ||gaghygienetheir.com^
 ||gagitaa.com^
 ||gagnifie.com^
@@ -48740,6 +48751,7 @@
 ||gescomstrategies.com^
 ||turtle.geshem.space^
 ||geslinginst.shop^
+||gessiptoab.net^
 ||gestama.boats^
 ||vw1.gestimnogo.net^
 ||gestion-assurance-sante.com^
@@ -48927,6 +48939,7 @@
 ||clk.getmycashcard.com^
 ||getmyfile.org^
 ||getmytralala.com^
+||getmyweaithsimple.com^
 ||download.getneema.com^
 ||getnewsfirst.com^
 ||to.getnitropack.com^
@@ -51476,6 +51489,7 @@
 ||gripwheels.com^
 ||grirault.net^
 ||grirtouy.com^
+||www.griservice.ro^
 ||go.grist.org^
 ||gristleupanaya.com^
 ||gritaware.com^
@@ -52323,6 +52337,7 @@
 ||haixomz.xyz^
 ||haizhangs.com^
 ||hajaxaa.com^
+||hajecurie.shop^
 ||trc.hajime-asset.com^
 ||hajper.com^
 ||nxcwnd.hakahonu.cl^
@@ -56010,6 +56025,7 @@
 ||ads.hwn.no^
 ||advertisement.hwn.no^
 ||hwnojj.xyz^
+||hwplypbn.icu^
 ||hwpnocpctu.com^
 ||hwpvbdj.xyz^
 ||m.hwzgo2.cn^
@@ -66152,6 +66168,7 @@
 ||kreatorinformacji.click^
 ||kredilimiti.com^
 ||kredit-rupiah.com^
+||krediteasypro.com^
 ||krediteksklusif.com^
 ||kreditesms.com^
 ||kreditifire.com^
@@ -71988,6 +72005,7 @@
 ||marchtobillionswithsolar.com^
 ||marchtv.ru^
 ||marciaarmata.com^
+||marcidknaves.com^
 ||gielecw.marcinlucas.pl^
 ||iwonach2505.marcinlucas.pl^
 ||marcjacobs-polska.com^
@@ -75796,6 +75814,7 @@
 ||modaconarte.com^
 ||lujcig.modaforyou.pl^
 ||marketing.modalife.com^
+||modalsaya.xyz^
 ||modamotyl.com^
 ||modastro.ee^
 ||modawanilia.com^
@@ -78243,6 +78262,7 @@
 ||myvisitorcounter.com^
 ||myvoicenation.com^
 ||myvu-1-kan-4-ik.site^
+||230.sub-166-166-188.myvzw.com^
 ||axp.mywabashvalley.com^
 ||app.mywaggle.com^
 ||app-test.mywaggle.com^
@@ -78261,7 +78281,6 @@
 ||m.mywd.com^
 ||mx.mywd.com^
 ||pl.mywd.com^
-||myweaithsimple.com^
 ||cars-taxonomy.mywebartist.eu^
 ||mywebcamstudio.com^
 ||mywebclick.net^
@@ -83599,6 +83618,7 @@
 ||onlinehelpcenetre.com^
 ||hyfiic.onlinehirdavatci.com^
 ||cgicounter.onlinehome.de^
+||onlinehome.us^
 ||partneri.onlinejazyky.cz^
 ||onlinekey.biz^
 ||onlinekino.pl^
@@ -84040,6 +84060,7 @@
 ||tcbtus.opodo.com^
 ||fzgpzp.opodo.de^
 ||qflwqw.opodo.fr^
+||www.opolis.io^
 ||track.oportalmaisvida.com^
 ||track.oportalsaudeemfoco.com^
 ||opositeasysemblyjus.info^
@@ -85437,6 +85458,7 @@
 ||paisahai.com^
 ||paisana92.com^
 ||paishoonain.net^
+||paiwariaroids.shop^
 ||paiwena.xyz^
 ||go.pajamaprogram.org^
 ||pajamasgnat.com^
@@ -86043,6 +86065,7 @@
 ||wzyjup.patch.com^
 ||patchassignmildness.com^
 ||patchedcyamoid.com^
+||patchouptid.xyz^
 ||patchuppmatil.media^
 ||patchwork.net^
 ||partner.patchworkparty.sk^
@@ -87542,6 +87565,9 @@
 ||pingshetrip.com^
 ||pinion.gg^
 ||pinjamanelit.top^
+||pinjamanrupiah.xyz^
+||pinjamantunai.xyz^
+||pinjamdana.live^
 ||pinjamteman.top^
 ||pinjamuang.top^
 ||ebgagg.pink.rs^
@@ -90183,6 +90209,7 @@
 ||pringed.space^
 ||schemea.prinit.net^
 ||prinkastors.com^
+||prinksdammit.com^
 ||prinksoncotic.com^
 ||smetrics.prinovaglobal.com^
 ||a8.print-netsquare.com^
@@ -94769,7 +94796,7 @@
 ||qqlnvwjtjhve.com^
 ||5.qqm98.com^
 ||vinted-pl-gj32d.qqmzan.top^
-||qqqmy.com^
+||www.qqqmy.com^
 ||qqrxk.club^
 ||qqs13.info^
 ||tweb.qqtax.cn^
@@ -96966,6 +96993,7 @@
 ||omni.rei.com^
 ||somni.rei.com^
 ||reicarlinhosmaia.com^
+||reicezenana.com^
 ||reichelcormier.bid^
 ||statistic2.reichelt.de^
 ||reifenachbarn.com^
@@ -100056,6 +100084,7 @@
 ||system.rvartions.ru^
 ||rvbztg.cn^
 ||rvcero.com^
+||api.rvere.com^
 ||rvetreyu.net^
 ||rvfrm2005.com^
 ||rvhrp.top^
@@ -100170,6 +100199,7 @@
 ||go.rzr.to^
 ||rzs-line.cc^
 ||rzsgxmm.cn^
+||rzuokcobzru.com^
 ||rzyosrlajku.com^
 ||rzzlhfx.com^
 ||s-ablauf.com^
@@ -102580,6 +102610,7 @@
 ||sda.seksohub.com^
 ||sel-hoz.com^
 ||sel-sel-fie.com^
+||selamatpinjam.space^
 ||selangorsihat-kewangankeluargasihat.my.id^
 ||selaris.com^
 ||selatimes.com^
@@ -118642,6 +118673,7 @@
 ||tpfsy.top^
 ||connect.tpgtelecom.com.au^
 ||contact.tphco.com^
+||tpi-app.herokuapp.com^
 ||tpizy1uy3x.ru^
 ||tplinkextender.net^
 ||tpmedia-reactads.com^
@@ -120984,6 +121016,7 @@
 ||tukofertas.com.br^
 ||tukomeo2.sbs^
 ||tukulors.info^
+||tukveks.com^
 ||tukygoopoe.com^
 ||link.tul.io^
 ||app.tulanegreenwave.com^
@@ -121033,6 +121066,7 @@
 ||tumultuserscheek.com^
 ||get.tunableapp.com^
 ||tunad.io^
+||tunairupiah.xyz^
 ||tunatastesentertained.com^
 ||tundestomyphoy.pro^
 ||smetrics.tune-h.com^
@@ -135062,6 +135096,7 @@
 ||ydhfvrug.xyz^
 ||ydmob.com^
 ||hncbeyghfsbvcuabgsbncvzgaioiuyegdbhabbbw.ydns.eu^
+||k2ygoods.ydns.eu^
 ||w0hsyejhnbcvzaxi8euyr6tgeya5vml09jysgav27.ydns.eu^
 ||ydolhlwq.xyz^
 ||repdata.ydr.com^
@@ -136491,7 +136526,6 @@
 ||zarad.net^
 ||zaradczynews.click^
 ||zaradnedane.click^
-||zaraz.vercel.app^
 ||zarderm.com^
 ||st.zarebasdezaley.com^
 ||zariumhb.com^
@@ -136813,7 +136847,6 @@
 ||zerostear.world^
 ||go.zerotothree.org^
 ||zttemail.zerotothree.org^
-||zerowasteinitiative.com^
 ||zesemen.cz^
 ||zesep.com^
 ||zeshanhaider.com^
@@ -137203,6 +137236,7 @@
 ||zmonei.com^
 ||zmowamilczenia.click^
 ||gdl.zmqdez.ru^
+||zmrmbc.xyz^
 ||zmtradinginc.com^
 ||zmwbrza.com^
 ||zmysashrep.com^
