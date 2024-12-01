@@ -3,10 +3,10 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241201162314
-! Last modified: 2024/12/01 16:23:14
-! Blocked domains: 161065
-! unBlocked domains: 127
+! Version: 20241202002225
+! Last modified: 2024/12/02 00:22:25
+! Blocked domains: 161069
+! unBlocked domains: 128
 !
 ||allegrolokalnie.0-103-a0-10.shop^
 ||d0ce8193a8.04b6001ba9.com^
@@ -5730,7 +5730,6 @@
 ||accordancespotted.com^
 ||accordinglyair.com^
 ||account-center765.pages.dev^
-||account-cfe.mx^
 ||olx.account-customer.shop^
 ||account-infos-pl.com^
 ||account-myrbc.com^
@@ -29900,6 +29899,7 @@
 ||caadapsal.top^
 ||news.caamp.org^
 ||caanalytics.com^
+||caaqot.com^
 ||dl.caavo.com^
 ||cabaral.com^
 ||cabarrustoday.com^
@@ -46651,6 +46651,7 @@
 ||ads.ebay.com^
 ||ebay839.cc^
 ||ebay8989.shop^
+||ebayadservices.com^
 ||ebayadvertising.com^
 ||ebayasean.com^
 ||www.ebaybanner.com^
@@ -48449,7 +48450,6 @@
 ||s2013560044.sc.origins.en25.com^
 ||s615419487.sc.origins.en25.com^
 ||s861531437.sc.origins.en25.com^
-||en407etr.com^
 ||en5wr67sag3.com^
 ||en8plusinf.com^
 ||enablerubbingjab.com^
@@ -63495,6 +63495,7 @@
 ||drrt.h18.ru^
 ||h1bsalarydata.com^
 ||h1l.cc^
+||h1v3fa.com^
 ||knvyzx.h201shift.com^
 ||h21.ru^
 ||h2icqxvhzwjcam5g1bpph2icqxvhzwjcam5g1bpph2icqxvhzwjcam5g1bpp.in^
@@ -76644,6 +76645,7 @@
 ||trvonu.k-manga.jp^
 ||kads.k-network.com^
 ||k-oggwkhhxt.love^
+||k-tozluxury.shop^
 ||affiliate.k-uno.co.jp^
 ||xhqmvu.k-uno.co.jp^
 ||enot.k-yroky.ru^
@@ -93912,6 +93914,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi40.com^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -115594,6 +115597,7 @@
 ||reflushneuma.com^
 ||refnippod.com^
 ||sys.refocus.ru^
+||reforest-iita.org^
 ||dl.reforged.gg^
 ||stingray.reform.app^
 ||inpost-pl-hid226ks.reforma.info^
@@ -126123,7 +126127,6 @@
 ||panel.smartpoint.pro^
 ||smartpower4all.org^
 ||zzqyxd.smartpozyczka.pl^
-||smartproduct.site^
 ||smartpush0.info^
 ||smartpush1.info^
 ||smartpush3.info^
@@ -151619,6 +151622,7 @@
 ||wczesniej.pl^
 ||wda.com^
 ||trk.wdacashtrk.com^
+||wdamcse.top^
 ||wdavrzv.com^
 ||wdbnrytrk.com^
 ||traffic.wdc.center^
@@ -159989,7 +159993,6 @@
 ||sys.zhangyue.com^
 ||saad.ms.zhangyue.net^
 ||smad.ms.zhangyue.net^
-||bookbk.img.zhangyue01.com^
 ||zhangyumo.top^
 ||zhangyunxiawinner.top^
 ||zhantai.com^
@@ -160172,6 +160175,7 @@
 ||dash.zintrack.com^
 ||zinturax.com^
 ||zinubyy.com^
+||zio8.icu^
 ||ziololecznictwo.pl^
 ||app.zmail.zionsbank.com^
 ||smetrics.zionsbank.com^
@@ -161119,6 +161123,7 @@
 @@||tracking.epicgames.com^
 @@||star.c10r.facebook.com^
 @@||star.fallback.c10r.facebook.com^
+@@||download.falco.org^
 @@||www.fbsbx.com^
 @@||login.gaijin.net^
 @@||ads.google.com^
