@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241202002225
-! Last modified: 2024/12/02 00:22:25
-! Blocked domains: 161069
+! Version: 20241202093826
+! Last modified: 2024/12/02 09:38:26
+! Blocked domains: 161089
 ! unBlocked domains: 128
 !
 ||allegrolokalnie.0-103-a0-10.shop^
@@ -10729,6 +10729,7 @@
 ||mobaders.oss-cn-beijing.aliyuncs.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com^
+||sandisk2.oss-ap-northeast-2.aliyuncs.com^
 ||sspmiaoshuo.cn-hangzhou.log.aliyuncs.com^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||tci.oss-ap-southeast-1.aliyuncs.com^
@@ -12583,6 +12584,7 @@
 ||anomalousporch.com^
 ||anonads.net^
 ||www.anonews.co^
+||game-01.anonvm.wtf^
 ||ze4dqs54dqs.anonymitaet.net^
 ||anonymous-net.com^
 ||anonymousdemographics.com^
@@ -17071,7 +17073,6 @@
 ||allegro.aukcja-id78542714.pl^
 ||allegro.aukcje24-7h.pl^
 ||aukrgukepersao.com^
-||aukroaze.xyz^
 ||auksizox.com^
 ||aulingimpora.club^
 ||aulist.com^
@@ -30772,6 +30773,7 @@
 ||link.cardgamesbybicycle.com^
 ||cardiaccultural.com^
 ||cardiacmate.com^
+||raw.cardiacpure.ru^
 ||cardinalpointanayltics.com^
 ||cardingforum.su^
 ||cardingmafia.net^
@@ -33457,6 +33459,7 @@
 ||vinted-pl-gj32d.cid-net.com^
 ||cidefenders.com^
 ||cideparenhem.com^
+||cidhmxxb.icu^
 ||cidiamond.com^
 ||i.cidianwang.com^
 ||cidingenieria.com^
@@ -40930,6 +40933,8 @@
 ||data-f59db3288b.dasgelbeblatt.de^
 ||dash-bits.top^
 ||dash-probits.top^
+||cat.dashabi.in^
+||sec.dashabi.in^
 ||dashamiagro.com^
 ||smetrics.dashandstars.com^
 ||dashbet.com^
@@ -44251,6 +44256,7 @@
 ||data-47ee1b0882.do-li.de^
 ||do-not-tracker.org^
 ||do-post.info^
+||quit.do.am^
 ||tds-banner.do.am^
 ||do4dude.com^
 ||do6256x8ae75.cloudfront.net^
@@ -50449,6 +50455,7 @@
 ||evelanda.com^
 ||gbs8.evelop.com^
 ||tbz5.evelop.com^
+||evelynnk.duckdns.org^
 ||evemasoil.com^
 ||get.even.com^
 ||get-staging.even.com^
@@ -51432,6 +51439,7 @@
 ||extrasales.shop^
 ||extrasdownload.com^
 ||extrashop.fr^
+||www.extrasmallpersonal.pro^
 ||mjsnvi.extraspace.com^
 ||www2.extraspace.com^
 ||www2s.extraspace.com^
@@ -56279,7 +56287,6 @@
 ||forthdigestive.com^
 ||fortheloveofrecovery.com^
 ||forthesovereignty.sa.com^
-||campingkaymakis.ath.forthnet.gr^
 ||interactive.forthnet.gr^
 ||forthnorriscombustible.com^
 ||fortiesgaudy.top^
@@ -58214,7 +58221,6 @@
 ||data-30bae1cc41.futurezone.de^
 ||data-81d20bd810.futurezone.de^
 ||futuristicfifth.com^
-||static-91-225-132-57.devs.futuro.pl^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
 ||futxaurefront.xyz^
@@ -65428,6 +65434,7 @@
 ||herdmenrations.com^
 ||www.herdofhaflingers.com^
 ||kk.herdsgrecoue.com^
+||here-industry-wind-greece.trycloudflare.com^
 ||sfirstparty.here.com^
 ||hereaftertriadcreep.com^
 ||herebybrotherinlawlibrarian.com^
@@ -79251,6 +79258,7 @@
 ||sharing.kptncook.com^
 ||track.msadcenter.kpuo.com^
 ||tracking.kpwebben.se^
+||mininews.kpzip.com^
 ||kq6lwk3m9g.ru^
 ||kqbjdvighp.com^
 ||app.e.kqed.org^
@@ -86577,6 +86585,7 @@
 ||maxlsvip.cc^
 ||gayal.maxmasnick.com^
 ||seyfwl.maxmodels.pl^
+||maxmoney.com^
 ||maxo.site^
 ||maxocoameo.live^
 ||maxonclick.com^
@@ -93579,6 +93588,7 @@
 ||narwatiosqg.xyz^
 ||narzuty.sklep.pl^
 ||www.nas-k.co.jp^
+||nas20180320tm.myqnapcloud.com^
 ||nasalatiodnc.com^
 ||data.marketing.nascar.com^
 ||metrics.nascar.com^
@@ -94497,6 +94507,7 @@
 ||y.net-games.co.il^
 ||content-olx.net-get.shop^
 ||olx.net-interface.shop^
+||net-killer.ooguy.com^
 ||net-protector.com^
 ||s.net-public.com^
 ||net-radar.com^
@@ -102362,6 +102373,7 @@
 ||passwordslayoutvest.com^
 ||passwordssaturatepebble.com^
 ||pastdsaped.com^
+||pastecodeapp.vercel.app^
 ||pastelcromes.com^
 ||pasteldevaluation.com^
 ||pastelesallegro.com.mx^
@@ -113272,6 +113284,7 @@
 ||5.qqm98.com^
 ||vinted-pl-gj32d.qqmzan.top^
 ||shop.qqqjjss.shop^
+||www.qqqmy.com^
 ||qqqwes.com^
 ||qqs13.info^
 ||tweb.qqtax.cn^
@@ -114213,6 +114226,7 @@
 ||raftmovers.com^
 ||raftropes.world^
 ||ragazzeinvendita.com^
+||ragebotnet.duckdns.org^
 ||ragedink.com^
 ||raggedstriking.com^
 ||raggerdough.com^
@@ -121158,6 +121172,7 @@
 ||scoklahomanews.com^
 ||a8cv.scom-f.jp^
 ||scomaninteractive.com^
+||sconat.com^
 ||sconotaeger.xyz^
 ||analytics-api.sconto.cz^
 ||sconvtrk.com^
@@ -121968,6 +121983,7 @@
 ||sekansasnews.com^
 ||sekentuckynews.com^
 ||sekhemonline.net^
+||sekhon.duckdns.org^
 ||sekindo.com^
 ||seks-telefon.com^
 ||b.seksohub.com^
@@ -124067,6 +124083,7 @@
 ||www.shopping-artikel.de^
 ||tag.shopping-feed.com^
 ||tag.shopping-flux.com^
+||shopping-nice.com^
 ||shopping-sms-43.com^
 ||delivery.shopping-sms-87.com^
 ||shoppingads.com^
@@ -128759,7 +128776,6 @@
 ||srmlawassociates.com^
 ||srmsii.xyz^
 ||srodektrwaly.click^
-||srothienhoa.com^
 ||www.srpinheiros.com.br^
 ||metrics.srpnet.com^
 ||smetrics.srpnet.com^
@@ -145833,6 +145849,7 @@
 ||ferias.usj.es^
 ||tracking.usj.es^
 ||usjbwvtqwv.com^
+||usjjsjsj.com.ng^
 ||uskecsx.icu^
 ||ma.uslawns.com^
 ||uslink.shop^
@@ -156353,6 +156370,8 @@
 ||xiaomovie.com^
 ||upsecure.xiaoneinei.shop^
 ||xiaopinwo.com^
+||cat.xiaoshabi.nl^
+||sec.xiaoshabi.nl^
 ||xiaosunxin.cn^
 ||xiaotiandisg.com^
 ||xiaoxiuapp.com^
@@ -160501,6 +160520,7 @@
 ||zonewedgeshaft.com^
 ||h5log.zongheng.com^
 ||log.zongheng.com^
+||static.zongheng.com^
 ||zongzuhulian.com^
 ||partner.zonky.cz^
 ||tsbmkf.zonnebrillen.com^
