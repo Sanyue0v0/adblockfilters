@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/Sanyue0v0/adblockfilters
 ! Source: https://raw.githubusercontent.com/Sanyue0v0/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241208002230
-! Last modified: 2024/12/08 00:22:30
-! Blocked domains: 136056
+! Version: 20241208094225
+! Last modified: 2024/12/08 09:42:25
+! Blocked domains: 136059
 ! unBlocked domains: 88
 !
 ||ausdedaoubaandoub.0351tylz.com^
@@ -3970,8 +3970,6 @@
 ||7zip.fr^
 ||7zip.it^
 ||7zip10-2024.top^
-||7zlp112024.top^
-||7zlp2024.shop^
 ||8-6l.cfd^
 ||8-fs42.cfd^
 ||8-yt.cfd^
@@ -10968,12 +10966,10 @@
 ||mymin11.oss-cn-hangzhou.aliyuncs.com^
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com^
 ||ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com^
-||sandisk2.oss-ap-northeast-2.aliyuncs.com^
 ||shangmei-test.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||sspmiaoshuo.cn-hangzhou.log.aliyuncs.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
-||storageinstance.oss-ap-southeast-1.aliyuncs.com^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||tci.oss-ap-southeast-1.aliyuncs.com^
@@ -12108,7 +12104,6 @@
 ||checkip.amazonaws.com^
 ||cloudfront-labs.amazonaws.com^
 ||crowdstrike-cloudtrail-storage-bb-126d5e.s3.us-west-1.amazonaws.com^
-||devil-cdn.s3.us-west-2.amazonaws.com^
 ||dvjqvdfujjvvkuyvhjqdvbjcmioljbhjmijq.s3.ap-northeast-1.amazonaws.com^
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
@@ -16806,7 +16801,6 @@
 ||herring.artemis.cloud^
 ||artemisaffiliates.com^
 ||marketing.artemiscm.com^
-||artemka.spb.ru^
 ||artenalente.blogspot.com^
 ||arterybasin.com^
 ||arteryeligiblecatchy.com^
@@ -17743,6 +17737,7 @@
 ||marketing.attaneresults.com^
 ||attarpantoon.click^
 ||attbfamiliamelhor.com^
+||attelaoe.com^
 ||attemptinert.com^
 ||attemptingstray.com^
 ||attemptsbetween.com^
@@ -21542,7 +21537,7 @@
 ||beigelazinessdetected.com^
 ||ad.beihai365.com^
 ||beijinglvyou.net.cn^
-||beiletoys.com^
+||www.beiletoys.com^
 ||beingajoyto.info^
 ||beinghypothermic.blogspot.com^
 ||beingsjeanssent.com^
@@ -30176,6 +30171,7 @@
 ||asv.cabofrio.rj.gov.br^
 ||cabombaskopets.life^
 ||cabubble.com^
+||caca.vercel.app^
 ||cacaca123.cc^
 ||cacaesthesiaocwer.life^
 ||cacafly.com^
@@ -38249,6 +38245,7 @@
 ||passport.coocaa.com^
 ||coocaatv.com^
 ||cooch.tv^
+||cooempresasltda104.duckdns.org^
 ||cooeyeddarbs.com^
 ||img01.coofinder.com^
 ||coofoapou.top^
@@ -46142,6 +46139,7 @@
 ||dsnhuspszx.com^
 ||dsntrewqaszxcv.wpenginepowered.com^
 ||dsoodbye.xyz^
+||dsoxgdjv.icu^
 ||statis.dsp.vn^
 ||dsp.wtf^
 ||dsp5stero.com^
@@ -55487,7 +55485,6 @@
 ||creatives1.ftimg.net^
 ||tracking.ftitechnology.com^
 ||track.ftnft.com^
-||down.ftp21.cc^
 ||hook.ftp21.cc^
 ||ssl.ftp21.cc^
 ||ftpshop.com.vn^
@@ -65010,6 +65007,7 @@
 ||target.huskydip.com^
 ||huskypartydance.com^
 ||na-pages.husqvarna.com^
+||husqvarnaoutlet.shop^
 ||hustleandmusclesport.com^
 ||fku.track.hustleplayzone.com^
 ||hustlersuniversityapp.com^
@@ -83643,7 +83641,6 @@
 ||microscopeunderpants.com^
 ||microscopys.com^
 ||microserviceguy.com^
-||microsoft-auth-network.cc^
 ||microsoft-free.live^
 ||microsoft-notifcation.com^
 ||microsoft-teams-meets.com^
@@ -87607,6 +87604,7 @@
 ||br.naked.com^
 ||media.naked.com^
 ||app.naked.insure^
+||nakedanalytics.net^
 ||redtrack.nakedandthriving.com^
 ||nakedfulfilhairy.com^
 ||nakedgirlstwerking.com^
@@ -88593,6 +88591,7 @@
 ||apps.software.netsimplicity.com^
 ||ads.netsol.com^
 ||netsolads.com^
+||www.netsolution.it^
 ||netsponsors.com^
 ||netstats.dk^
 ||channelportal.netsuite.com^
@@ -89092,6 +89091,7 @@
 ||track.nextgtrack.com^
 ||adv.nexthardware.com^
 ||tim.nextinpact.com^
+||nextjs-boilerplate-liard-nine-70.vercel.app^
 ||nextkhuyenmai.com^
 ||go.nextlace.fr^
 ||nextlevel.com^
@@ -89628,6 +89628,7 @@
 ||nodekindle.rest^
 ||evri.nodent.top^
 ||evru.nodent.top^
+||nodethisweek.com^
 ||nodice.click^
 ||nodisinfo.com^
 ||lc.nodoseamylic.com^
@@ -91236,6 +91237,7 @@
 ||c.offr.rocks^
 ||offremechx.shop^
 ||promotion.offres-avantage.com^
+||offshorecyclone.com^
 ||offshoredependant.com^
 ||offshoredutchencouraging.com^
 ||offshorekesuma.com^
@@ -93531,6 +93533,7 @@
 ||oxvlxwz.xyz^
 ||oxxvikappo.com^
 ||oxy-taxi.com^
+||loader.oxy.st^
 ||oxybe.com^
 ||eulerian.oxybul.com^
 ||tmbsxx.oxybul.com^
@@ -94209,6 +94212,7 @@
 ||logs6.papertrailapp.com^
 ||paphoolred.com^
 ||papiashvili.top^
+||9uwe.papilliondairyqueen.com^
 ||papillonandco.com^
 ||reydrj.papilot.pl^
 ||papismkhedahs.com^
@@ -96250,6 +96254,7 @@
 ||analytics.pixels.ai^
 ||pixeltracker.im^
 ||pixeltrey.com^
+||pixelvariety.com^
 ||pixelzoomclick.com^
 ||ad.pixfs.net^
 ||pixfuture.com^
@@ -99057,6 +99062,7 @@
 ||procuratorthoroughlycompere.com^
 ||procuredsheet.com^
 ||procuremind.com^
+||prod-be-source.s3.amazonaws.com^
 ||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
 ||prodaemdveri.com^
 ||info.prodagio.com^
@@ -101603,6 +101609,7 @@
 ||punchsub.net^
 ||punctual-window.com^
 ||punctuationceiling.com^
+||puneet.ae^
 ||puneexpress.com^
 ||punicajosher.top^
 ||punishgrantedvirus.com^
@@ -104364,7 +104371,6 @@
 ||resanobnak.com^
 ||rescator.la^
 ||reschdl-myups1.com^
-||reschedule-my-ups-now.com^
 ||reschedule-myups.com^
 ||reschiastudios.com^
 ||info.rescignos.com^
@@ -107959,7 +107965,6 @@
 ||security-data-account.com^
 ||order-olx.security-link.shop^
 ||login.teams.microsoft.security-notifications.net^
-||security-service-api-link.cc^
 ||security-wallet.com^
 ||santander.securitycheck-online.com^
 ||securityinbox-mygov.com^
@@ -109491,6 +109496,7 @@
 ||x.shopsavvy.com^
 ||shopsellcardsdumps.com^
 ||a.shopserve.jp^
+||7.shopsharm.ru^
 ||shopsieupham.com^
 ||uerzfm.shopstyle.ca^
 ||ads.shopstyle.com^
@@ -113178,7 +113184,7 @@
 ||stinkwrestle.com^
 ||stinkyloadeddoctor.com^
 ||stionicgeodist.com^
-||www.stipamana.com^
+||stipamana.com^
 ||stippleit.com^
 ||affiliate.stips.cz^
 ||stirdevelopingefficiency.com^
@@ -117289,6 +117295,7 @@
 ||tgdopodk.com^
 ||tgel2ebtx.ru^
 ||tget.me^
+||random.tggame.xyz^
 ||images.care.tgh.org^
 ||medicine.tgh.org^
 ||tginspections.com^
@@ -119623,7 +119630,6 @@
 ||ablink.track.timhortons.com^
 ||data.promo.timhortons.com^
 ||timmerintice.com^
-||gourvita1.timmeserver.de^
 ||marketing.timmons.com^
 ||timmy.by^
 ||timmytherobot.blogspot.com^
@@ -120923,7 +120929,7 @@
 ||totpsst.top^
 ||totscnr.com^
 ||totszentmarton.hu^
-||www.totya.ir^
+||totya.ir^
 ||bake.toucan-house.com^
 ||present.toucan-house.com^
 ||toucanjs.com^
@@ -125641,6 +125647,8 @@
 ||uspszney.top^
 ||uspsznjha.top^
 ||usr98.com^
+||1b5622c7-2ce6-4cef-b1cd-19325efd8f45.usrfiles.com^
+||e0e60b79-a4cf-434f-a1f3-9fc2defea271.usrfiles.com^
 ||usseek.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
@@ -125715,9 +125723,6 @@
 ||utokapa.com^
 ||utopia-privacy.com^
 ||utopianuncajamas.blogspot.com^
-||utorrent-backup-server2.top^
-||utorrent-backup-server3.top^
-||utorrent-backup-server4.top^
 ||utorrent.it^
 ||utour.app^
 ||utoxybknuxcc.com^
@@ -129876,6 +129881,7 @@
 ||analytics.websolute.it^
 ||websponsors.com^
 ||16883719-16-20211227182314.webstarterz.com^
+||52575815-38-20200406120634.webstarterz.com^
 ||stats.webstarts.com^
 ||webstat.com^
 ||webstat.no^
@@ -131129,7 +131135,6 @@
 ||wez.wimsa.top^
 ||wimswuppoxan.com^
 ||win-bidding.com^
-||win-network-checker.cc^
 ||win-winfuture.cn^
 ||win102.com^
 ||d.win10com.com^
@@ -132800,8 +132805,6 @@
 ||xiaomovie.com^
 ||upsecure.xiaoneinei.shop^
 ||xiaopinwo.com^
-||cat.xiaoshabi.nl^
-||sec.xiaoshabi.nl^
 ||xiaosunxin.cn^
 ||xiaotiandisg.com^
 ||xiaoxiuapp.com^
@@ -135270,6 +135273,7 @@
 ||zhengzhou12.top^
 ||zherobafov.info^
 ||zhiad.com^
+||zhibodaohang.cc^
 ||pv.zhiding.cn^
 ||ruhpbn.zhigaojixie.com^
 ||crash2.zhihu.com^
@@ -135665,7 +135669,6 @@
 ||zonewedgeshaft.com^
 ||h5log.zongheng.com^
 ||log.zongheng.com^
-||static.zongheng.com^
 ||zongzuhulian.com^
 ||zononi.com^
 ||zonsingise.com^
